@@ -1,0 +1,56 @@
+Title: TWMC - つくば山歩きと登山の会
+
+----
+
+Author: TWMC - つくば山歩きと登山の会
+
+----
+
+Description: We are a small club based in Tsukuba/Japan (50 km north of Tokyo). We are organising weekend hiking trips to the mountains in the larger Kanto area and beyond.
+
+----
+
+Keywords: walking,mountaineering,hiking,mountain,climbing,Tsukuba,Japan,Ibaraki,Ibaragi,Kanto
+
+----
+
+Copyright: © 1998-(date: Year) (link: http://twmc.info text: つくば山歩きと登山の会)
+
+----
+
+About: 
+
+つくば山歩きと登山の会」（TWMC）は1998年5月に設立され、我々は今まで富士山、北・南アルプスから筑波山まで多くの山に登ってきました。このクラブの趣旨は初級から上級までのレベルの登山を計画し、全ての人に国際交流を楽しみながら、日本の自然を楽しんでいただくことです。もちろん、登山の後は温泉にも入ります。
+
+----
+
+Quicklinks: 
+
+<h4>Quick Links</h4>
+<ul class="list-links">
+                              <li><a href="#">Future hikes</a></li>
+                              <li><a href="#">Rules</a></li>
+                              <li><a href="#">Help</a></li>
+                              <li><a href="#">Committee</a></li>
+                              <li><a href="#">Wednesday Meeting</a></li>
+                              <li><a href="#">Contact</a></li>
+                          </ul>
+
+----
+
+Connect: 
+
+----
+
+Contact: 
+
+<header><h4>Contact Us</h4></header>
+                          <address>
+                              <strong>Tsukuba Walking and Mountaineering Club</strong>
+                              <br>
+                              <span>Tsukuba-Shi</span>
+                              <br>
+                              <span>Ibaraki, Japan</span>
+<br><br>
+                              <abbr title="Email">Email:</abbr> <a href="#">questions@twmc.info</a>
+                          </address>

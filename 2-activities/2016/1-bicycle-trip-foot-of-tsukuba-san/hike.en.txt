@@ -1,0 +1,53 @@
+Title: Bicycle Trip foot of Tsukuba San
+
+----
+
+Status: Planned
+
+----
+
+Place: Tsukuba
+
+----
+
+Location: 36.2258333,140.10500000000002
+
+----
+
+Prefecture: Ibaraki
+
+----
+
+Tags: Tsukuba,Cycling
+
+----
+
+Date: 2016-04-03
+
+----
+
+Enddate: 2016-04-03
+
+----
+
+Days: 1
+
+----
+
+Organiser: 
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 1
+
+----
+
+Description: 
+
+----
+
+Report: 
