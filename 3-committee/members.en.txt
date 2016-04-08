@@ -4,5 +4,9 @@ Title: Committee Members
 
 Text: 
 
+(member: kotaro)
 (member: anja)
+(member: mihoko)
+(member: tadashi)
+(member: alok)
 (member: deepa)
