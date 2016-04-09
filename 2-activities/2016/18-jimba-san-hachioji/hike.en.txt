@@ -14,7 +14,7 @@ Location: 35.6522107,139.16656260000002
 
 ----
 
-Prefecture: 
+Prefecture: Tokyo
 
 ----
 

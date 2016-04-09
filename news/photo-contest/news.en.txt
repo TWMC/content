@@ -10,7 +10,7 @@ Date: 2015-12-01
 
 ----
 
-Text:
+Text: 
 
 As is customary at the party, we will have a Photo Contest with small prizes for the winners. Please send your photos, which must be from this year's TWMC events, to Hamish (hamish.yeung@...) under the following three categories to enter:
 
@@ -23,3 +23,7 @@ All, any and many photos are welcome, they really don't have to be professional 
 ----
 
 News: 
+
+----
+
+Summary: 
