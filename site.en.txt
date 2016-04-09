@@ -6,7 +6,7 @@ Author: TWMC - Tsukuba Walking and Mountaineering Club
 
 ----
 
-Description: We are a small club based in Tsukuba/Japan (50 km north of Tokyo). We are organising weekend hiking trips to the mountains in the larger Kanto area and beyond.
+Description: We are a small club based in Tsukuba/Japan (50 km north of Tokyo). We organise weekend hiking trips to the mountains in the larger Kanto area and beyond.
 
 ----
 
@@ -18,7 +18,7 @@ Copyright: © 1998-(date: Year) (link: http://twmc.info text: Tsukuba Walking an
 
 ----
 
-About: TWMC - Tsukuba Walking and Mountaineering Club. We are a small club based in Tsukuba/Japan (50 km north of Tokyo). We are organising weekend hiking trips to the mountains in the larger Kanto area and beyond.
+About: TWMC - Tsukuba Walking and Mountaineering Club. We are a small club based in Tsukuba/Japan (50 km north of Tokyo). We organise weekend hiking trips to the mountains in the larger Kanto area and beyond.
 
 ----
 
@@ -26,12 +26,11 @@ Quicklinks:
 
 <h4>Quick Links</h4>
 <ul class="list-links">
-                              <li><a href="#">Future hikes</a></li>
-                              <li><a href="#">Rules</a></li>
-                              <li><a href="#">Help</a></li>
-                              <li><a href="#">Committee</a></li>
-                              <li><a href="#">Wednesday Meeting</a></li>
-                              <li><a href="#">Contact</a></li>
+                              <li><a href="http://twmc.club/activities">Future hikes</a></li>
+                              <li><a href="http://twmc.club/about-twmc/guidelines">Rules</a></li>
+                              <li><a href="http://eve.bk.tsukuba.ac.jp/twmc/">Old Website</a></li>
+                              <li><a href="http://twmc.club/committee">Committee</a></li>
+                              <li><a href="http://twmc.club/about-twmc/weekly-get-together">Wednesday Meeting</a></li>
                           </ul>
 
 ----

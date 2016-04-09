@@ -2,11 +2,11 @@ Title: Hinohara
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
-Place: Hinohara
+Place: hinohara
 
 ----
 
@@ -18,15 +18,15 @@ Prefecture: Tokyo
 
 ----
 
-Tags: Tokyo,Hinohara
+Tags: 
 
 ----
 
-Date: 2016-05-07
+Date: 2016-03-26
 
 ----
 
-Enddate: 2016-05-07
+Enddate: 2016-03-26
 
 ----
 
@@ -42,11 +42,11 @@ Coorganiser: tadashi
 
 ----
 
-Difficulty: 3
+Difficulty: 1
 
 ----
 
-Description: 
+Description: This hike is postponed to Saturday May 7th.
 
 ----
 

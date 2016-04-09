@@ -37,8 +37,7 @@ Note that you do have to reply to the e-mail sent from the mailing list owners -
 To unsubscribe from the list, send a blank e-mail to: 
 (email: twmc-unsubscribe@yahoogroups.com)
 
-For e-mail users with multiple accounts: Be sure that you send this e-mail from the the same account to which your TWMC e-mails are sent. The address unsubscribed will that given in the "sender" field of the e-mail to:    
-(email: twmc-unsubscribe@yahoogroups.com)
+For e-mail users with multiple accounts: Be sure that you send this e-mail from the the same account to which your TWMC e-mails are sent.  The email-account given in the "sender" field of the e-mail sent  to (email: twmc-unsubscribe@yahoogroups.com) shall be deleted from the subscription list.
 
 To post messages to the group (members only): 
 (email: twmc@yahoogroups.com)
