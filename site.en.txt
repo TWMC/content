@@ -49,5 +49,5 @@ Contact:
                               <br>
                               <span>Ibaraki, Japan</span>
 <br><br>
-                              <abbr title="Email">Email:</abbr> <a href="#">questions@twmc.info</a>
+                              <abbr title="Email">Email:</abbr> <a href="#"></a>
                           </address>

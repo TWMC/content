@@ -1,0 +1,13 @@
+Title: Moved Committee Members
+
+----
+
+Text: 
+
+(member: hamish)
+(member: akira)
+(member: paul)
+(member: victor)
+(member: masako)
+(member: nicolas)
+(member: julian)

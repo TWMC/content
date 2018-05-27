@@ -1,0 +1,17 @@
+Title: Club Inventory
+
+----
+
+Text: 
+
+The following are the list of hiking related books, maps and equipments . 
+You can borrow these items.
+
+>(link: https://docs.google.com/spreadsheets/d/1baIl5U5-OfwBXug5WPG0uVKScQj6hGe0IXac200gbsU/edit?usp=sharing text: Inventory list)
+
+Currently, books and maps are kept at Hot Staff. 
+
+Please contact Thierry Fouquet or Kotaro Makino in advance if you want to borrow.
+Note that these items are voluntarily maintained by Thierry and other committees.
+TWMC can't guarantee the quality of items. Make sure that equipments property work  before you use.
+Borrow and use at your own risk!

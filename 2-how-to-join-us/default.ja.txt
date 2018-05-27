@@ -1,0 +1,42 @@
+Title: TWMCに参加するには
+
+----
+
+Text: 
+
+TWMCのイベントの情報はメーリングリストで配信しています。
+
+We are using a mailing list to announce details of walks and as a forum for discussions and questions related to mountaineering.
+You can subscribe to our mailing list by submitting your e-mail address here:
+
+<div>
+<form method="get"
+      action="http://groups.yahoo.com/subscribe/twmc"
+      style="background-color: #ffc; width: 254px; padding: 2px 4px">
+  <h6 style="font-weight: bold; margin-bottom: 5px; text-align: center">
+      Subscribe to TWMC</h6>
+  <input style="vertical-align: top"
+      type="text"
+      name="user"
+      value="enter email address"
+      size="20" />
+  <input type="image" alt="Click to join name-of-group"
+      name="Click to join name-of-group"
+      src="http://us.i1.yimg.com/us.yimg.com/i/yg/img/i/us/ui/join.gif" />
+  <p style="text-align: center;">
+  Powered by <a href="http://us.groups.yahoo.com/">us.groups.yahoo.com</a></p>
+</form>
+</div>
+
+Or, if you prefer, send a blank email to: 
+(email: twmc-subscribe@yahoogroups.com)
+
+For more details about our mailing list, pease see "Mailing List" page.
+
+また、月初めの水曜日にミーティングを開催しています。
+Furthermore, we have monthly getting-together on every first Wednesday of each month.
+If you are interested in our club, this meeting is good opportunity to get to know us.
+The start time is around 9 p.m. and the place is a bar "Hot Staff" which is located near the Doha park.
+See also "(link: http://twmc.club/about-twmc/weekly-get-together text: get-toghere)" page.
+
+Please feel free to contact to (link: http://www.twmc.club/people/kotaro text: Kotaro Makino) if there are any problems.

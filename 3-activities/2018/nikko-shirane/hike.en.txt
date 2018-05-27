@@ -1,0 +1,53 @@
+Title: Nikko-shirane
+
+----
+
+Status: Planned
+
+----
+
+Place: Nikko
+
+----
+
+Location: 36.7983333,139.37416659999997
+
+----
+
+Prefecture: Tochigi
+
+----
+
+Tags: 
+
+----
+
+Date: 2018-09-01
+
+----
+
+Enddate: 2018-09-01
+
+----
+
+Days: 1
+
+----
+
+Organiser: kotaro
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 1
+
+----
+
+Description: 
+
+----
+
+Report: 

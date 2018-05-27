@@ -1,0 +1,53 @@
+Title: Iwaki
+
+----
+
+Status: Completed
+
+----
+
+Place: Iwaki
+
+----
+
+Location: 37.0504195,140.88768170000003
+
+----
+
+Prefecture: Fukushima
+
+----
+
+Tags: Iwaki
+
+----
+
+Date: 1998-08-02
+
+----
+
+Enddate: 1998-08-02
+
+----
+
+Days: 1
+
+----
+
+Organiser: kouichi-iwasaki
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 2
+
+----
+
+Description: 
+
+----
+
+Report: 
