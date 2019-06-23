@@ -1,0 +1,53 @@
+Title: Oze
+
+----
+
+Status: Planned
+
+----
+
+Place: Oze National Park
+
+----
+
+Location: 36.9525734,139.3018763
+
+----
+
+Prefecture: Gunma
+
+----
+
+Tags: 
+
+----
+
+Date: 2019-10-12
+
+----
+
+Enddate: 2019-10-13
+
+----
+
+Days: 2
+
+----
+
+Organiser: alok
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 2
+
+----
+
+Description: 
+
+----
+
+Report: 

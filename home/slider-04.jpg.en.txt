@@ -1,0 +1,21 @@
+Slider: 1
+
+----
+
+Dispalycaption: 1
+
+----
+
+Caption: Celebrating 20 years
+
+----
+
+Subcaption: Establised in 1998
+
+----
+
+Linktopage: /about-twmc
+
+----
+
+Linktext: About TWMC

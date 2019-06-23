@@ -14,7 +14,7 @@ Keywords: walking,mountaineering,hiking,mountain,climbing,Tsukuba,Japan,Ibaraki,
 
 ----
 
-Copyright: © 1998-(date: Year) (link: http://twmc.info text: Tsukuba Walking and Mountaineering Club)
+Copyright: © 1998-(date: Year) (link: https://www.twmc.club text: Tsukuba Walking and Mountaineering Club)
 
 ----
 
@@ -28,7 +28,8 @@ Quicklinks:
 <ul class="list-links">
                               <li><a href="http://twmc.club/activities">Future hikes</a></li>
                               <li><a href="http://twmc.club/about-twmc/guidelines">Rules</a></li>
-                              <li><a href="http://eve.bk.tsukuba.ac.jp/twmc/">Old Website</a></li>
+                              <!-- <li><a href="http://eve.bk.tsukuba.ac.jp/twmc/">Old Website</a></li> -->
+                              <li><a href="https://classic.twmc.club/">Old Website</a></li>
                               <li><a href="http://twmc.club/committee">Committee</a></li>
                               <li><a href="http://twmc.club/about-twmc/weekly-get-together">Wednesday Meeting</a></li>
                           </ul>
@@ -49,5 +50,5 @@ Contact:
                               <br>
                               <span>Ibaraki, Japan</span>
 <br><br>
-                              <abbr title="Email">Email:</abbr> <a href="#"></a>
+                              <!-- <abbr title="Email">Email:</abbr> <a href="#"></a>  -->
                           </address>

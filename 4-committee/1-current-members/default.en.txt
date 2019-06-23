@@ -20,3 +20,5 @@ Feel free to contact a committee member at any time.
 (member: yumi)
 (member: ovidiu)
 (member: thierry)
+(member: rick-weisburd)
+(member: stephanie-fung)

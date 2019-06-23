@@ -1,0 +1,53 @@
+Title: Sadogashima
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 38.0410823,138.33871820000002
+
+----
+
+Prefecture: Niigata
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-08-20
+
+----
+
+Enddate: 1999-08-22
+
+----
+
+Days: 2
+
+----
+
+Organiser: paul
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 3
+
+----
+
+Description: 
+
+----
+
+Report: 

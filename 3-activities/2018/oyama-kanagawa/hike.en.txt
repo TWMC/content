@@ -2,7 +2,7 @@ Title: Oyama Kanagawa
 
 ----
 
-Status: Planned
+Status: Completed
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser: yumi
 
 ----
 
-Difficulty: 2
+Difficulty: 3
 
 ----
 
@@ -69,3 +69,16 @@ Club fee: 300 yen
 ----
 
 Report: 
+
+This is the report for the Mt. Oyama hike on Sunday, May 27th.
+
+The weather was perfect throughout the day - sunny, but not unbearably hot. 
+Due to some last minute cancellations, 4 people met at Isehara station at 9:00. 
+After a crowded bus ride to the Oyama Cable bus stop and some preparations, we started hiking around 10:30. 
+We passed by Oyama-dera and climbed further to Afuri-jinja. There, to our horror, we found out that we had arrived in the middle of the local sake festival, which offered visitors the chance to try many different sakes from across Japan, for free, and in apparently unlimited quantities. 
+After a 15 min break in order to better understand the significance of the event, we continued our hike. 
+We summited around 13:00 and, after a lengthy lunch break, we started our descent. 
+The way down, while not difficult, was particularly hard on our knees due to the large number of steep steps, especially on the final part. 
+After a second crowded bus ride, we arrived back at Isehara station around 17:00 and boarded the Odakyu line towards Tsukuba.
+
+*** As was rightfully pointed out during the hike, this route should be classified as 3/5 due to the large number of steep stone steps at the beginning (and end) of the course. These can be avoided by taking the cable-car. For the same reason, this course should be avoided in case of wet weather, due to the risk of slipping.

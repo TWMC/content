@@ -1,0 +1,53 @@
+Title: Hakone
+
+----
+
+Status: Planned
+
+----
+
+Place: Hakone (Yamanashi)
+
+----
+
+Location: 35.2323825,139.10693549999996
+
+----
+
+Prefecture: Yamanashi
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-12-04
+
+----
+
+Enddate: 1999-12-05
+
+----
+
+Days: 2
+
+----
+
+Organiser: emma-duncan
+
+----
+
+Coorganiser: paul
+
+----
+
+Difficulty: 2
+
+----
+
+Description: 
+
+----
+
+Report: 

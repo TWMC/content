@@ -1,0 +1,53 @@
+Title: Nasu
+
+----
+
+Status: Planned
+
+----
+
+Place: Nasu
+
+----
+
+Location: 37.1323615978778,139.96683498349603
+
+----
+
+Prefecture: Tochigi
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-11-21
+
+----
+
+Enddate: 1999-11-21
+
+----
+
+Days: 1
+
+----
+
+Organiser: franz-gingl
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 1
+
+----
+
+Description: 
+
+----
+
+Report: 

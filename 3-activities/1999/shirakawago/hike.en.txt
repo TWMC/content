@@ -1,0 +1,53 @@
+Title: Shirakawago
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 36.2710289,136.89857440000003
+
+----
+
+Prefecture: Gifu
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-07-17
+
+----
+
+Enddate: 1999-07-20
+
+----
+
+Days: 3
+
+----
+
+Organiser: terry-saito
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 3
+
+----
+
+Description: 
+
+----
+
+Report: 

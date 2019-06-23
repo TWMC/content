@@ -1,0 +1,53 @@
+Title: Kita alps
+
+----
+
+Status: Planned
+
+----
+
+Place: Kita alps
+
+----
+
+Location: 35.6747908,138.23885399999995
+
+----
+
+Prefecture: Nagano
+
+----
+
+Tags: 
+
+----
+
+Date: 2019-08-24
+
+----
+
+Enddate: 2019-08-25
+
+----
+
+Days: 2
+
+----
+
+Organiser: kotaro
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 4
+
+----
+
+Description: 
+
+----
+
+Report: 

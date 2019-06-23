@@ -1,0 +1,53 @@
+Title: Kamakura
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 35.3192128,139.54667310000002
+
+----
+
+Prefecture: Kanagawa
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-03-07
+
+----
+
+Enddate: 1999-03-07
+
+----
+
+Days: 1
+
+----
+
+Organiser: paul
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 1
+
+----
+
+Description: 
+
+----
+
+Report: 

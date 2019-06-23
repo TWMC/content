@@ -1,0 +1,53 @@
+Title: Iwaki
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 37.0505055,140.88774349999994
+
+----
+
+Prefecture: Fukushima
+
+----
+
+Tags: 
+
+----
+
+Date: 1999-08-14
+
+----
+
+Enddate: 1999-08-14
+
+----
+
+Days: 1
+
+----
+
+Organiser: victor
+
+----
+
+Coorganiser: 
+
+----
+
+Difficulty: 2
+
+----
+
+Description: 
+
+----
+
+Report: 
