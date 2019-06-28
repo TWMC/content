@@ -2,7 +2,7 @@ Title: beach/onsen trip Ibaraki
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2019-06-29
+Date: 2019-07-06
 
 ----
 
-Enddate: 2019-06-29
+Enddate: 2019-07-06
 
 ----
 
