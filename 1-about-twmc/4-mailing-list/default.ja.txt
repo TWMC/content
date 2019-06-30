@@ -4,43 +4,20 @@ Title: Mailing List
 
 Text: 
 
-To ensure that every TWMC member receives the same information concerning club activities we have a mailing list. We are using this service to announce details of walks and as a forum for discussions and questions related to mountaineering.
-You can subscribe to our mailing list by submitting your e-mail address here:
+To ensure that every TWMC member receives the same information concerning club activities we have a mailing list.
+We are using this service to announce details of walks and as a forum for discussions and questions related to mountaineering.
 
-
-<div>
-<form method="get"
-      action="http://groups.yahoo.com/subscribe/twmc"
-      style="background-color: #ffc; width: 254px; padding: 2px 4px">
-  <h6 style="font-weight: bold; margin-bottom: 5px; text-align: center">
-      Subscribe to TWMC</h6>
-  <input style="vertical-align: top"
-      type="text"
-      name="user"
-      value="enter email address"
-      size="20" />
-  <input type="image" alt="Click to join name-of-group"
-      name="Click to join name-of-group"
-      src="http://us.i1.yimg.com/us.yimg.com/i/yg/img/i/us/ui/join.gif" />
-  <p style="text-align: center;">
-  Powered by <a href="http://us.groups.yahoo.com/">us.groups.yahoo.com</a></p>
-</form>
-</div>
-
-Or, if you prefer, send a blank email to: 
-(email: twmc-subscribe@yahoogroups.com)
-
-You will then automatically be subscribed with the e-mail account you used to send that message.
+You can subscribe to our mailing list by sending a blank email to (email: twmc-subscribe@yahoogroups.com).
+You will receive an email of request acknowledge from the mailing list service demanding a simple reply to confirm the subscription.
+You will be then subscribed with the e-mail account you used to send that message.
 
 Note that you do have to reply to the e-mail sent from the mailing list owners - this is a security feature which stops people adding other addresses to the mailing list.
 
-To unsubscribe from the list, send a blank e-mail to: 
-(email: twmc-unsubscribe@yahoogroups.com)
+To unsubscribe from the list, send a blank e-mail to: (email: twmc-unsubscribe@yahoogroups.com)
 
 For e-mail users with multiple accounts: Be sure that you send this e-mail from the the same account to which your TWMC e-mails are sent.  The email-account given in the "sender" field of the e-mail sent  to (email: twmc-unsubscribe@yahoogroups.com) shall be deleted from the subscription list.
 
-To post messages to the group (members only): 
-(email: twmc@yahoogroups.com)
+To post messages to the group (members only): (email: twmc@yahoogroups.com)
 
 E-mail sent to this address will be sent to all subscribers of our mailing list.
 If you have any problems or further questions, please e-mail the (email: ahenselmans@gmail.com text: club secretary).
