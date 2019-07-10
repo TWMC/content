@@ -1,8 +1,5 @@
-Caption: 
+Caption: Dragonfly
 
 ----
 
 Gallery: 1
-
-----
-
