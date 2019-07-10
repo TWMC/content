@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Night Hike: Kenashiyama 
+Place: Night Hike: Kenashiyama
 
 ----
 
-Location: 
+Location: 35.3606255,138.72736340000006
 
 ----
 
-Prefecture: Yamanashi-ken
+Prefecture: Yamanashi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Robin Haw
+Organiser: robin-haw
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
