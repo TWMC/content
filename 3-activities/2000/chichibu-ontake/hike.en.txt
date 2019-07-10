@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Chichibu Ontake 
+Place: Chichibu Ontake
 
 ----
 
-Location: 
+Location: 35.9916443,139.08558689999995
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Kouichi Iwasaki
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
