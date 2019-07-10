@@ -10,11 +10,11 @@ Place: Izu Hantou
 
 ----
 
-Location: 
+Location: 34.9766167,138.94655
 
 ----
 
-Prefecture: 
+Prefecture: Shizuoka
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Kouichi Iwasaki
+Organiser: kouichi-iwasaki
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
