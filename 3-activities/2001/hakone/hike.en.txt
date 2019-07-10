@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Hakone 
+Place: Hakone
 
 ----
 
-Location: 
+Location: 35.2323825,139.10693549999996
 
 ----
 
-Prefecture: Kanagawa-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: 
 
 ----
 
@@ -42,17 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
