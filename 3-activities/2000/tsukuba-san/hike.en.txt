@@ -1,4 +1,4 @@
-Title: Tsukuba-san
+Title: Christmas Walk
 
 ----
 
@@ -10,11 +10,11 @@ Place: Tsukuba-san
 
 ----
 
-Location: 
+Location: 36.2253757,140.10749250000003
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Cedric Morel
+Organiser: 
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Our group on top of the rotating restaurant.
       From left: Paul,
       Masako, Cedric, Claire, Björn, Kouichi, Christer, 
@@ -86,6 +87,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
