@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Kamikochi 
+Place: Kamikochi
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Kita-Alps
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Paul Reay
+Organiser: 
 
 ----
 
@@ -42,17 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
