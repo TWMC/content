@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Myogi-san   
+Place: Myogi-san
 
 ----
 
-Location: 
+Location: 36.298611,138.73472200000003
 
 ----
 
-Prefecture: Gunma-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Emmanuel Riviere
+Organiser: 
 
 ----
 
@@ -42,17 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
