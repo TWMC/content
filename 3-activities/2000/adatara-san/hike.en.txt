@@ -14,7 +14,7 @@ Location: 37.644167,140.286111
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: terubumi-saito
 
 ----
 
