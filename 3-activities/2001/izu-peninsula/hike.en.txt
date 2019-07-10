@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Izu peninsula 
+Place: Izu peninsula
 
 ----
 
@@ -34,15 +34,15 @@ Days: 2
 
 ----
 
-Organiser: Björn Klotz (Masako Okamoto, really)
+Organiser: bjoern-klotz
 
 ----
 
-Coorganiser: 
+Coorganiser: masako
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
