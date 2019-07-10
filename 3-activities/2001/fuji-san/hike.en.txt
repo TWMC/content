@@ -10,11 +10,11 @@ Place: Fuji-san
 
 ----
 
-Location: 
+Location: 35.3606255,138.72736340000006
 
 ----
 
-Prefecture: 
+Prefecture: Shizuoka
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: tadashi
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
