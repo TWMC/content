@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Oze 
+Place: Oze
 
 ----
 
-Location: 
+Location: 44.502573,5.8009270000000015
 
 ----
 
-Prefecture: Gumma-ken/Fukushima-ken
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Kouichi Iwasaki
+Organiser: kouichi-iwasaki
 
 ----
 
@@ -42,31 +42,18 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Oze,
-Surely Oze is one of the best walking course in Japan and 
-there were as many as 17 participants(!) on Oze trip.
-There were many newcomers thanks to Koichi's well organized PR.
-It turned out that we visited Oze in the best period and could
-enjoy 
-beautiful autumn leaves. I took easy option on both days and enjoyed
-
-relaxed walk, occasionally stopping at beautiful trees, taking
-photos.
-We could see red and yellow leaves of white birch, maples, horse
-chesnuts and
-oaks on the walk. You can see easy-walk photos below.
-
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
 
-----
-
+Oze,
+Surely Oze is one of the best walking course in Japan and there were as many as 17 participants(!) on Oze trip.
+There were many newcomers thanks to Koichi's well organized PR. 
+It turned out that we visited Oze in the best period and could enjoy beautiful autumn leaves. I took easy option on both days and enjoyed relaxed walk, occasionally stopping at beautiful trees, taking photos.
+We could see red and yellow leaves of white birch, maples, horse chesnuts and oaks on the walk. You can see easy-walk photos below.
