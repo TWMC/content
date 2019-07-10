@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Izu Peninsula 
+Place: Izu Peninsula
 
 ----
 
-Location: 
+Location: 34.9766167,138.94655
 
 ----
 
-Prefecture: Shizuoka-ken
+Prefecture: Shizuoka
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Björn Klotz
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -54,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
