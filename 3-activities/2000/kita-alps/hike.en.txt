@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kita Alps 
+Place: Kita Alps
 
 ----
 
-Location: 
+Location: 36.7587181,137.75858949999997
 
 ----
 
-Prefecture: Shiroumadake
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Neil Marston
+Organiser: neil-marston
 
 ----
 
@@ -42,11 +42,14 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
 Description: 
+
+Report by Björn, Photos by Les and Björn
+
 The trip started very pleasantly at 6 p.m.
 on Friday, with Kouichi taxiing the rest of the Tsukuba group
 (Paul, Les and me) to the bus stop from where we took the highway
@@ -169,6 +172,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
