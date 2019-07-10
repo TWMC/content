@@ -10,11 +10,11 @@ Place: Nikko
 
 ----
 
-Location: 
+Location: 36.7198987,139.69823610000003
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Neil Marston
+Organiser: neil-marston
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
