@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Iwaki waterfall walk 
+Place: Iwaki
 
 ----
 
-Location: 
+Location: 37.1982391,140.8352284
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Victor Heese
+Organiser: victor
 
 ----
 
@@ -42,31 +42,18 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: We were a bit unlucky with the traffic, it took us one
-hour from Sakura-Tsuchiura to Tsuchiura-Kita due to a
-bad traffic jam (accident and beginning of obon) and
-another 2 1/2 from there to Iwama (route 6 was jammed,
-too, so in the end we took those very small roads that
-run alongside the highway in most places. Finally our (Stefan's)
-car managed to miss the narrow road that leads to the
-trailhead and we drove up and down the valley for more
-than half an hour trying to find the others, but we
-caught up with them on the trail.
-Being almost 4 hours late, unfortunatly we did not have
-too much time for swimming, but we still managed to have
-a quick dip in two of the pools along the trail. Very
-enjoyable trip !
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
 
-----
+We were a bit unlucky with the traffic, it took us one hour from Sakura-Tsuchiura to Tsuchiura-Kita due to a bad traffic jam (accident and beginning of obon) and another 2 1/2 from there to Iwama (route 6 was jammed, too, so in the end we took those very small roads that run alongside the highway in most places. Finally our (Stefan's) car managed to miss the narrow road that leads to the trailhead and we drove up and down the valley for more than half an hour trying to find the others, but we caught up with them on the trail.
+Being almost 4 hours late, unfortunatly we did not have too much time for swimming, but we still managed to have
+a quick dip in two of the pools along the trail. 
 
+Very enjoyable trip !
