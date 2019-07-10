@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Koshin-san 
+Place: Koshin-san
 
 ----
 
-Location: 
+Location: 36.6732897,139.3612696
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Terubumi Saito
+Organiser: paul
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
-Description: by Hellevi Raita
+Description: 
+
+by Hellevi Raita
 We left Seveneleven at 7.30, remarkably late
 to be a TWMC-hike, all the five of us stuffed into Terry's car:
 Paul, Neil, Ralf, Terry and myself. We followed Route 125, with
@@ -180,6 +182,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
