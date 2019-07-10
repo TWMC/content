@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: paul
 
 ----
 
@@ -42,14 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
-Description: 
-
-Back to the
-Home Page
+Description: photos by Mario Ivanov (most) and Iulia Klotz
 
 ----
 
