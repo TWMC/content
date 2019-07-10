@@ -10,11 +10,11 @@ Place: Ozegahara
 
 ----
 
-Location: 
+Location: 36.952557,139.30187590000003
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -34,19 +34,21 @@ Days: 2
 
 ----
 
-Organiser: Paul Reay Victor Heese
+Organiser: paul
 
 ----
 
-Coorganiser: 
+Coorganiser: victor
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: by Neil Marston (Photos by Iulia Klotz)
+Description: 
+
+by Neil Marston (Photos by Iulia Klotz)
 It was set to be a record breaking weekend,
 about 20 people to wander around the marshes of Oze looking at
 skunk cabbage and the stunning scenery. Unfortunately, a record
@@ -316,6 +318,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
