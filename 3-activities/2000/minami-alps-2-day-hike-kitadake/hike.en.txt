@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Minami Alps 2 day hike: Kitadake
+Place: Kitadake
 
 ----
 
-Location: 
+Location: 35.6747908,138.23885399999995
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: tadashi
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
 Description: 
+
 by Iulia Klotz, Photos by Iulia
 Klotz
 Who decided that Bjoern and I,
@@ -209,6 +210,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
