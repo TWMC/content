@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Bandai-san 
+Place: Bandai-san
 
 ----
 
-Location: 
+Location: 37.6009417,140.07225010000002
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Björn Klotz
+Organiser: bjoern-klotz
 
 ----
 
@@ -42,17 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
-Back to the
-Home Page
 
 ----
 
-Report: 
-
-----
-
+Report: Photos by Shinji and Björn
