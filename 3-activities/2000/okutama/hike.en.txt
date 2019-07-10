@@ -10,11 +10,11 @@ Place: Okutama
 
 ----
 
-Location: 
+Location: 35.7387188,139.01411870000004
 
 ----
 
-Prefecture: 
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Victor Heese
+Organiser: julia-klotz
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
-Description: Photos by Iulia Klotz
+Description: 
+
+Photos by Iulia Klotz
 
 Our first stop, a waterfall that is apparently supposed to
 
@@ -63,6 +65,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
