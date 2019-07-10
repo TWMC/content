@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Tanigawa-dake   
+Place: Tanigawa-dake
 
 ----
 
-Location: 
+Location: 36.8345934,138.9301544
 
 ----
 
-Prefecture: Gumma-ken
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Terry Saito
+Organiser: terubumi-saito
 
 ----
 
@@ -42,25 +42,19 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Tanigawa-dake,
-Hi everybody,
-We had a nice 2 day-trip (rigorously
-speaking, it ended up in 3 days due to
-traffic jams) at Tanigawa-dake in the wonderful weather and beautiful
-autumn
-colors.
-I would like you all to share the beatiful scenaries in the photo
-album.
-Cheers!
-Terry
+Description: 
 
 ----
 
 Report: 
 
-----
-
+Tanigawa-dake,
+Hi everybody,
+We had a nice 2 day-trip (rigorously speaking, it ended up in 3 days due to traffic jams) at Tanigawa-dake in the wonderful weather and beautiful autumn colors.
+I would like you all to share the beatiful scenaries in the photo album.
+Cheers!
+Terry
