@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Myogi-san 
+Place: Myogi-san
 
 ----
 
-Location: 
+Location: 36.298611,138.73472200000003
 
 ----
 
-Prefecture: ridge or valley option)
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Olivier Letessier
+Organiser: olivier-letessier
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
