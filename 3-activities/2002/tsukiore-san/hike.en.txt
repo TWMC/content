@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Tsukiore-san 
+Place: Tsukiore-san
 
 ----
 
-Location: 
+Location: 36.7581579,140.40497000000005
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Akira Kagawa
+Organiser: akira
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
