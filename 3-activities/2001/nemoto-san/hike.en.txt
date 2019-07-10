@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Nemoto-san 
+Place: Nemoto-san
 
 ----
 
-Location: 
+Location: 35.6074041,140.10653660000003
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Chiba
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,12 +42,17 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: nemoto-san - history of a rainy
-day
+Description: 
+
+----
+
+Report: 
+
+nemoto-san - history of a rainy day
 i'm iulia. it is shortly after
 midnight, sunday. we should wake up in 4 hours but bjoern says
 "that rain is making 'tip-tip' on the roof, i cannot fall
@@ -160,14 +165,4 @@ statistics: 6 people, two japanese
 (chisa, shinji), two germans (bjoern, andreas), one austrian (christoph),
 one romanian (iulia); two broken hiking poles; thousand pictures
 again...
-
-
-Back to the
-Home Page
-
-----
-
-Report: 
-
-----
-
+Report by Iulia, photos below by Shinji and Bjoern.
