@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Iwaki waterfall walk 
+Place: Iwaki waterfall walk
 
 ----
 
-Location: 
+Location: 37.18399630372783,140.82621748302006
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: Fukushima
 
 ----
 
@@ -34,25 +34,20 @@ Days: 1
 
 ----
 
-Organiser: Victor Heese
+Organiser: 
 
 ----
 
-Coorganiser: 
+Coorganiser: victor
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
-Back to the
-Home Page
 
 ----
 
-Report: 
-
-----
-
+Report: Photos by Björn
