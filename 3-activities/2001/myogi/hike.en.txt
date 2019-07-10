@@ -14,7 +14,7 @@ Location: 36.299754,138.76056859999994
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: julia-klotz
 
 ----
 
