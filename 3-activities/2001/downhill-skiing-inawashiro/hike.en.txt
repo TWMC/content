@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: cedric-morel
 
 ----
 
@@ -47,9 +47,6 @@ Difficulty: 1
 ----
 
 Description: 
-
-Back to the
-Home Page
 
 ----
 
