@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Downhill skiing: Bandai-san 
+Place: Downhill skiing: Bandai-san
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Emma Duncan
+Organiser: victor
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
