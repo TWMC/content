@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Panorama-dai mountain 
+Place: Panorama-dai mountain
 
 ----
 
-Location: 
+Location: 43.6805577,142.92168000000004
 
 ----
 
-Prefecture: Shizuoka-ken
+Prefecture: Yamanashi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Kouichi Iwasaki
+Organiser: kouichi-iwasaki
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
