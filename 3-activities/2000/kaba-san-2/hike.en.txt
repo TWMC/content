@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Kaba-san 
+Place: Kaba-san
 
 ----
 
-Location: 
+Location: 36.2985267,140.14373160000002
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Terubumi Saito
+Organiser: terubumi-saito
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
