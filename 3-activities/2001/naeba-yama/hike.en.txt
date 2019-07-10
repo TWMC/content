@@ -14,7 +14,7 @@ Location: 36.7880025,138.76714549999997
 
 ----
 
-Prefecture: 
+Prefecture: Niigata
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: masako
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
