@@ -10,11 +10,11 @@ Place: Yatsugatake
 
 ----
 
-Location: 
+Location: 35.3606255,138.72736340000006
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Neil Marston
+Organiser: neil-marston
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
