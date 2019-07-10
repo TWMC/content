@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Yatsugatake 
+Place: Yatsugatake
 
 ----
 
-Location: 
+Location: 36.004609820725804,138.37081835000004
 
 ----
 
-Prefecture: Nagano/Yamanashi-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Paul Reay
+Organiser: 
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Dear all,
+Description: 
+
+Dear all,
 Here is my report of the Yatsugatake
 trip, September 22-24. The report is very long, but then it was
 a long and memorable walk:
@@ -210,6 +212,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
