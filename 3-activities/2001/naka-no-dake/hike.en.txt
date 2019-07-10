@@ -14,7 +14,7 @@ Location: 42.4681877,142.8844484
 
 ----
 
-Prefecture: 
+Prefecture: Hokkaido
 
 ----
 
@@ -42,11 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
 Description: 
+
+----
+
+Report: 
 
 At 8:00 am, we were already at
 Jyuji-kyo, the start point of the walk. It was a beautiful Autumn
@@ -146,7 +150,3 @@ Leszek for the nice tea and coffee. Thanks Les for your jokes,
 and thank you very much Terry for driving.
 
 Report by Masako
-
-----
-
-Report: 
