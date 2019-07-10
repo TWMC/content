@@ -10,11 +10,11 @@ Place: Christmas Party
 
 ----
 
-Location: 
+Location: 36.0630043,140.12125579999997
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -26,7 +26,7 @@ Date: 2001-12-08
 
 ----
 
-Enddate: 2001-12-08
+Enddate: 2001-12-05
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Iulia Klotz
+Organiser: julia-klotz
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
