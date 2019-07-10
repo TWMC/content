@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Mikaguradake 
+Place: Mikaguradake
 
 ----
 
-Location: 
+Location: 37.5214569,139.42568749999998
 
 ----
 
-Prefecture: Niigata-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Terubumi Saito
+Organiser: 
 
 ----
 
@@ -42,38 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
-Description: Photos by Les, Masako and Terry
-
-Koyo on the way up on Mikaguradake
-(first day).
-Paul and Cedric having lunch
-
-
-      Björn demonstrating true grace and the 
-      complete uselessness of hiking poles in 
-      rock climbing.
-On Haku-san (second day). From the left: Björn, 
-      Les, Masako, Cedric, Terry and Mieko Togai. She said 
-      she wanted to stay on the mountain because she had a 
-      husband and kids at home waiting to be fed.
-      Kouichi was also on that trip, but he somehow managed 
-      to be on precisely 0 photos.
-(photo by Masako, Mieko and Adobe Photoshop)
-
-
-
-Jiko-ji temple at the foot of Haku-san.
-
-Back to the
-Home Page
+Description: hotos by Les, Masako and Terry
 
 ----
 
 Report: 
-
-----
-
