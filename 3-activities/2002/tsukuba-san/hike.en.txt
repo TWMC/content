@@ -10,11 +10,11 @@ Place: Tsukuba-san
 
 ----
 
-Location: 
+Location: 36.2253757,140.10749250000003
 
 ----
 
-Prefecture: Tsukuba-city
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Viswanath Ajay Mallia
+Organiser: viswanath-ajay-mallia
 
 ----
 
@@ -42,19 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Tsukuba-san,
-
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
