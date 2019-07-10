@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Cross Country Ski Trip   
+Place: Cross Country Ski Trip
 
 ----
 
-Location: 
+Location: 38.1529672,140.4458267
 
 ----
 
-Prefecture: Zao-san
+Prefecture: Yamagata
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Luc Berthouze
+Organiser: 
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
