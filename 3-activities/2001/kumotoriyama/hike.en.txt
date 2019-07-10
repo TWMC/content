@@ -10,7 +10,7 @@ Place: Kumotoriyama
 
 ----
 
-Location: 
+Location: 35.8554954,138.94395800000007
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Paul Reay
+Organiser: 
 
 ----
 
@@ -42,17 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
