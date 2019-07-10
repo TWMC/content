@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kogashi-yama   
+Place: Kogashi-yama
 
 ----
 
-Location: 
+Location: 36.6217584,139.77148490000002
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: masako
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
