@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: The BBQ 
+Place: The BBQ, Tsukuba
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Robin Haw
+Organiser: robin-haw
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
