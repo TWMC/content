@@ -14,7 +14,7 @@ Location: 37.18394877174728,140.82595868564454
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: victor
 
 ----
 
@@ -42,19 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
-Description: 
-
-Photos by Leshek Zbroniec
-
-
-
-
-Back to the
-Home Page
+Description: Photos by Leshek Zbroniec
 
 ----
 
