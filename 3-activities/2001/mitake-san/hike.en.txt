@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Mitake-san 
+Place: Mitake-san
 
 ----
 
-Location: 
+Location: 35.7829416,139.14950269999997
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Iulia Klotz
+Organiser: julia-klotz
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
