@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Takamizu-san 
+Place: Takamizu-san
 
 ----
 
-Location: 
+Location: 35.23844,140.08681879999995
 
 ----
 
-Prefecture: Okutama
+Prefecture: Chiba
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Iulia Klotz
+Organiser: 
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 On the way up from Mitake-eki: Cedric, Björn,
       Niclas,
       Elena. The person sitting next to Elena is Robert Diem,
@@ -69,6 +70,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
