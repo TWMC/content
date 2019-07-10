@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Iwaki Waterfall Walk
+Place: Iwaki Waterfall (Setogaro)
 
 ----
 
-Location: 
+Location: 37.18394877174728,140.82595868564454
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Victor Heese
+Organiser: 
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Photos by Leshek Zbroniec
+Description: 
+
+Photos by Leshek Zbroniec
 
 
 
@@ -57,6 +59,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
