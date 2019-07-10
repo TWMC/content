@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Tanzawa 
+Place: Tanzawa
 
 ----
 
-Location: 
+Location: 35.4771810632746,139.16313110727538
 
 ----
 
-Prefecture: Kanagawa-ken
+Prefecture: Kanagawa
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: tadashi
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: The cue for the bus to the start
+Description: 
+
+The cue for the bus to the start
       point. 
       We later abandoned that bus in the traffic jam.
 
@@ -105,6 +107,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
