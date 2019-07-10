@@ -1,4 +1,4 @@
-Title: Naka-no-dake
+Title: Nakano-dake
 
 ----
 
@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Naka-no-dake 
+Place: Nakano-dake
 
 ----
 
-Location: 
+Location: 42.4681877,142.8844484
 
 ----
 
-Prefecture: Niigata-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: 
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: At 8:00 am, we were already at
+Description: 
+
+At 8:00 am, we were already at
 Jyuji-kyo, the start point of the walk. It was a beautiful Autumn
 morning, without any clouds in the sky. Since we arrived there
 earlier than we had expected, and the weather was so good, we
@@ -149,6 +151,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
