@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kita Alps 
+Place: Kita Alps
 
 ----
 
-Location: 
+Location: 36.2513203,137.653235
 
 ----
 
-Prefecture: Kamikochi
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: by Paul Reay, pictures below
+Description: 
+
+by Paul Reay, pictures below
 by Leshek Zbroniec
 All back safely from Kamikochi,
 but never again will I wish Laure a Happy Birthday on the summit
@@ -239,6 +241,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
