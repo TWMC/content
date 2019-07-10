@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kumotori-yama   
+Place: Kumotori-yama
 
 ----
 
-Location: 
+Location: 35.8554954,138.94395800000007
 
 ----
 
-Prefecture: Tokyo-to
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Paul Reay
+Organiser: 
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Just wanted to tell you a bit about the trip...
+Description: 
+
+Just wanted to tell you a bit about the trip...
 Akira, Jan and me took the 5:29 train from Hitachinoushiku
 and
 arrived in Ikebukuro at 6:39. About two minutes later Masumi called
@@ -114,12 +116,6 @@ and we lost the way ! Do you know the number of the mountain rescue
 ?!").
 probably the guy singing "O sole mio" was too loud.
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
