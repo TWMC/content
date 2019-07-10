@@ -10,7 +10,7 @@ Place: Myogi
 
 ----
 
-Location: 
+Location: 36.299754,138.76056859999994
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Iulia Klotz
+Organiser: 
 
 ----
 
@@ -42,17 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
