@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kamikochi 
+Place: Kamikochi
 
 ----
 
-Location: 
+Location: 36.2513203,137.653235
 
 ----
 
-Prefecture: Kita Alps
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
