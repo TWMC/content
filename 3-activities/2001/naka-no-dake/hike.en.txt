@@ -10,11 +10,11 @@ Place: Nakano-dake
 
 ----
 
-Location: 42.4681877,142.8844484
+Location: 35.7075331,139.6637591
 
 ----
 
-Prefecture: Hokkaido
+Prefecture: Niigata
 
 ----
 
