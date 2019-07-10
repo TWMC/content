@@ -1,4 +1,4 @@
-Title: Xmas Party
+Title: Christmas Party
 
 ----
 
@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Xmas Party 
+Place: Tsukuba
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
-Prefecture: Tsukuba-city
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Viswanath Ajay Mallia
+Organiser: viswanath-ajay-mallia
 
 ----
 
@@ -42,19 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: X'mas party,
-
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
