@@ -10,11 +10,11 @@ Place: Yatsugatake
 
 ----
 
-Location: 36.004609820725804,138.37081835000004
+Location: 35.97544196925339,138.37116167275394
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: 
+Organiser: paul
 
 ----
 
