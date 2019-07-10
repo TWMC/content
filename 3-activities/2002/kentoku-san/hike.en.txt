@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Kentoku-san   
+Place: Kentoku-san
 
 ----
 
-Location: 
+Location: 35.822771,138.71497820000002
 
 ----
 
-Prefecture: Yamanashi-ken
+Prefecture: Yamanashi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: masako
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
