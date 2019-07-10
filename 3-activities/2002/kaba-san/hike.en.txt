@@ -10,7 +10,7 @@ Place: Kaba-san
 
 ----
 
-Location: 
+Location: -3.5105556,102.62555559999998
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Terry Saito
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -54,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
