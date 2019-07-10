@@ -1,4 +1,4 @@
-Title: Takamizu-san
+Title: Takamizu-san (Okutama)
 
 ----
 
@@ -6,11 +6,11 @@ Status: Completed
 
 ----
 
-Place: Takamizu-san
+Place: Takamizu-san,
 
 ----
 
-Location: 35.23844,140.08681879999995
+Location: 35.8095021,139.0960592
 
 ----
 
