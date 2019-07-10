@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Wagakuni-san   
+Place: Wagakuni-san
 
 ----
 
-Location: 
+Location: 36.3218758,140.20104909999998
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: tadashi
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -54,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
