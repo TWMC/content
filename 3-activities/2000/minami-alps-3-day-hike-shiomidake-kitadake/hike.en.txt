@@ -10,11 +10,11 @@ Place: Minami Alps 3 day hike:  Shiomidake + Kitadake
 
 ----
 
-Location: 
+Location: 35.6747908,138.23885399999995
 
 ----
 
-Prefecture: 
+Prefecture: Yamanashi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 5
 
 ----
 
-Description: by Neil Marston, photos by
+Description: 
+
+by Neil Marston, photos by
 Leshek Zbroniec
 Apart from Paul who was running
 around like a headless chicken because of a last-minute hitch
@@ -169,6 +171,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
