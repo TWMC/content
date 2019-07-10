@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Okukujinantai-san 
+Place: Okukujinantai-san
 
 ----
 
-Location: 
+Location: 36.2193571,140.18325159999995
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
