@@ -2,7 +2,7 @@ Title: Nikko shirane
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -47,6 +47,13 @@ Difficulty: 3
 ----
 
 Description: 
+
+The Nikko-Shirane hike is postponed!
+Given the weather and the route, I deemed that we should cancel this time.
+
+I would be grateful if you understand this decision.
+I will re-organize it!
+
 
 As of July 14th, all people signed up can go!
 Anja
