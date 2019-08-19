@@ -2,11 +2,11 @@ Title: Get together November
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
-Place: 
+Place: Hot Staff
 
 ----
 
@@ -22,31 +22,34 @@ Tags:
 
 ----
 
-Date: 
+Date: 2019-11-06
 
 ----
 
-Enddate: 
+Enddate: 2019-11-06
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: kotaro
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+Monthly get-together. Feel free to join us.
+For more detail, please see (link: http://twmc.club/about-twmc/weekly-get-together text: this page).
 
 ----
 
