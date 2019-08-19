@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2019-10-02
 
 ----
 
-Enddate: 
+Enddate: 2019-10-02
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: kotaro
 
 ----
 
@@ -47,6 +47,9 @@ Difficulty: 1
 ----
 
 Description: 
+
+Monthly get-together. Feel free to join us.
+For more detail, please see (link: http://twmc.club/about-twmc/weekly-get-together text: this page).
 
 ----
 
