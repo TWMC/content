@@ -10,7 +10,7 @@ Place: Hokyo-san
 
 ----
 
-Location: 
+Location: 36.1675521,140.12995939999996
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Alok Singh
+Organiser: 
 
 ----
 
@@ -42,15 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
-
-
-
 
 Back to the
 Home Page
@@ -58,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
