@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Nemoto-san           
+Place: Nemoto-san
 
 ----
 
-Location: 
+Location: 36.38237720000001,139.70667377968743
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,17 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-Back to the
-Home Page
 
 ----
 
 Report: 
-
-----
-
