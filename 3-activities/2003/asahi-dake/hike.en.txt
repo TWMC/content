@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Asahi-dake           
+Place: Asahi-dake
 
 ----
 
-Location: 
+Location: 43.66367229999999,142.85430250000002
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: Hokkaido
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Ryoko & Ajay
+Organiser: ryoko
 
 ----
 
@@ -42,16 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
