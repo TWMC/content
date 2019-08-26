@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Terry Saito
+Organiser: terubumi-saito
 
 ----
 
@@ -42,16 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
-Description: Back to the
+Description: 
+
+Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
