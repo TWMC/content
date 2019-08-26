@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Nikko birthday walk           
+Place: Nikko
 
 ----
 
-Location: 
+Location: 36.7198987,139.69823610000003
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Nicolas Delerue
+Organiser: nicolas
 
 ----
 
@@ -42,17 +42,22 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: TWMC - Nikko 5th Birthday Walk,
-Hike report by Archana
+Description: 
+
+----
+
+Report: 
+
 There are no pictures on the real adventurous parts of the hike. We were so
 busy reveling in  adventure that we forgot to take pictures. At one point
 when I was doing a rope trick, I asked Yu to take my picture. Hope she will
 send them to the list after she returns from USA.  Here are my
 (not-so-brief) comments on the walk.
+
 ---Pilgrim`s route---
 The first day hike was quite uneventful except that we kept playing lost and
 found game. People were missing, then we missed the route, both while hiking
@@ -69,6 +74,7 @@ But thanks to the delicious BBQ dinner and relaxing onsen, she regained her
 usual genki self.  To tease the taste buds of those who missed it - the menu
 was - smoked sausages, eggplants, chicken, yakitori noodles, tacos,
 popcorns, bear, and fruit salad. Thanks everyone who helped with the dinner.
+
 ---Shirane San---
 Shirane San`s hike was quite adventurous (BTW whats the difference between
 adventurous and dangerous?).  The trails on the way to the lake were buried
@@ -96,13 +102,3 @@ we managed to reach just before dark.
 Indeed it was a great hike. It has taught me a few lessons though.  I will
 post them in a separate mail - that is if you care to read yet another mail by me:).
 Thanks Nicolas and everyone!!
-
-Back to the
-Home Page
-
-----
-
-Report: 
-
-----
-
