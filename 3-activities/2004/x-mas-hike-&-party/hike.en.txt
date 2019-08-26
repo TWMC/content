@@ -10,7 +10,7 @@ Place: X-mas hike & party
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Terry Saito
+Organiser: 
 
 ----
 
@@ -42,12 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
 
 Back to the
 Home Page
@@ -55,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
