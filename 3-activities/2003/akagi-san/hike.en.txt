@@ -1,4 +1,4 @@
-Title: Akagi-san
+Title: Mt. Akagi
 
 ----
 
@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Akagi-san           
+Place: Akagi-san
 
 ----
 
-Location: 
+Location: 36.5389572,139.16642950000005
 
 ----
 
-Prefecture: Gunma-ken
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Nicolas & Jan
+Organiser: nicolas
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
+
 Hike report by Jan
 We had a great hike on Sunday on Akagi san. We started out at 5.45 at HS
 and drove to Akagi san. It was a rather cold day (the sign around the
@@ -112,6 +113,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
