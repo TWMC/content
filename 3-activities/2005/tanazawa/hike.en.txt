@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: richard-wasserbauer
 
 ----
 
@@ -42,16 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
 Description: 
 
-Previous walks
-Back to the
-Home Page
-
 ----
 
-Report: 
+Report: Photos by Gunther and Richard
