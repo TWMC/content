@@ -10,11 +10,11 @@ Place: Mt. Fuji
 
 ----
 
-Location: 
+Location: 35.3606255,138.72736340000006
 
 ----
 
-Prefecture: 
+Prefecture: Shizuoka
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: masako
 
 ----
 
@@ -42,27 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
 Description: 
 
-
-
-
-
-
-
-
-Back to the
-previous walks page
-Back to the
-Home Page
-
 ----
 
-Report: 
-
-----
-
+Report: Photos by Thomas Gumpenberger
