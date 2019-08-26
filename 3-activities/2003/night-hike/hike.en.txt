@@ -10,7 +10,7 @@ Place: Night hike
 
 ----
 
-Location: 
+Location: 36.2193571,140.18325159999995
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
