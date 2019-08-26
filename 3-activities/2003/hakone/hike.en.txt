@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Hakone           
+Place: Hakone
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Yamanashi-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: 
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Hakone,
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
