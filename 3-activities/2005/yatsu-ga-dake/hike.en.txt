@@ -10,7 +10,7 @@ Place: Yatsu-ga-dake
 
 ----
 
-Location: 
+Location: 36.002574799016756,138.3674916142578
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Luc
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
