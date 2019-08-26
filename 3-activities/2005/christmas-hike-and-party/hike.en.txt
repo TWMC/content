@@ -10,7 +10,7 @@ Place: Christmas hike and party
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Gunther Lientschnig & Alok Singh
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -55,6 +55,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
