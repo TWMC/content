@@ -10,7 +10,7 @@ Place: Barbecue
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Alok
+Organiser: 
 
 ----
 
@@ -42,18 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
-
-
-
-
-
-
 
 Back to the
 previous walks page
@@ -63,6 +56,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
