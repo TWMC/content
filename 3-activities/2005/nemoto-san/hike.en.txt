@@ -14,7 +14,7 @@ Location: 36.53847433671875,139.19036096953118
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: paul
 
 ----
 
@@ -42,16 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
-Description: 
-
-Previous walks
-Back to the
-Home Page
+Description: Nemoto-san (1,199 m), situated in the Kiryu region south of Nikko is  a sacred mountain associated with the Black Tengu and samurai, and  with a notoriety as a place for gambling!
 
 ----
 
-Report: 
+Report: Photos by Pavel
