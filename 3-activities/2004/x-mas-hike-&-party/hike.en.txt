@@ -14,7 +14,7 @@ Location: 36.0835255,140.0764454
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: terubumi-saito
 
 ----
 
@@ -48,9 +48,6 @@ Difficulty: 1
 
 Description: 
 
-Back to the
-Home Page
-
 ----
 
-Report: 
+Report: Photos by Ajay & Ryoko
