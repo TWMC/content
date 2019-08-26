@@ -34,11 +34,11 @@ Days: 1
 
 ----
 
-Organiser: emma-duncan
+Organiser: gunter
 
 ----
 
-Coorganiser: 
+Coorganiser: alok
 
 ----
 
@@ -47,10 +47,6 @@ Difficulty: 1
 ----
 
 Description: 
-
-Previous walks
-Back to the
-Home Page
 
 ----
 
