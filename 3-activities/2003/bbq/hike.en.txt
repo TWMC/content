@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: BBQ           
+Place: BBQ
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Tsukuba-shi
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Viswanath Ajay Mallia
+Organiser: 
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: BBQ party,
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
