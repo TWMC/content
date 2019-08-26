@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Inawashiro Downhill           Skiing
+Place: Inawashiro
 
 ----
 
-Location: 
+Location: 37.5577638,140.10483939999995
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Terry Saito
+Organiser: 
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Inawashiro Downhill Skiing,
+Description: 
+
+Inawashiro Downhill Skiing,
 
 Back to the
 Home Page
@@ -54,6 +56,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
