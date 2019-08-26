@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Gozen-yama           
+Place: Gozen-yama
 
 ----
 
-Location: 
+Location: 35.770142,139.08066110000004
 
 ----
 
-Prefecture: Tokyo-to
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Viswanath Ajay Mallia
+Organiser: viswanath-ajay-mallia
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Gozen-yama,
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
