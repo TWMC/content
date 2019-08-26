@@ -1,4 +1,4 @@
-Title: Yatsu-ga-dake
+Title: Yatsugatake
 
 ----
 
@@ -14,7 +14,7 @@ Location: 36.002574799016756,138.3674916142578
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: luc-berthouze
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
