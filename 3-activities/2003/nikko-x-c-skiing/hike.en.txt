@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Nikko X-C Skiing
+Place: Nikko
 
 ----
 
-Location: 
+Location: 36.7198987,139.69823610000003
 
 ----
 
-Prefecture: Tochigi-ken
+Prefecture: Tochigi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Victor Heese
+Organiser: 
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Nikko X-C Skiing,
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
