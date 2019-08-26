@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Fukushima-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Terry Saito
+Organiser: 
 
 ----
 
@@ -42,12 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
 
 Back to the
 Home Page
@@ -55,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
