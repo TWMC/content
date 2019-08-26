@@ -14,7 +14,7 @@ Location: 35.6747908,138.23885399999995
 
 ----
 
-Prefecture: 
+Prefecture: Yamanashi
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: tadashi
 
 ----
 
@@ -42,17 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
 Description: 
 
-Back to the
-previous walks page
-Back to the
-Home Page
-
 ----
 
-Report: 
+Report: Photos by Pavel & Tadashi
