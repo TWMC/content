@@ -1,4 +1,4 @@
-Title: Zao X-country ski
+Title: Zao cross-country ski
 
 ----
 
@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Zao X-country ski
+Place: Zao
 
 ----
 
-Location: 
+Location: 38.1529672,140.4458267
 
 ----
 
-Prefecture: 
+Prefecture: Yamagata
 
 ----
 
@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: Luc Berthouze
+Organiser: luc-berthouze
 
 ----
 
@@ -42,20 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
-
-
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
