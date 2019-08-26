@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Iwaki waterfall walk           
+Place: Iwaki waterfall walk
 
 ----
 
-Location: 
+Location: 37.1850733,140.83269770000004
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Victor Heese
+Organiser: victor
 
 ----
 
@@ -42,17 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-Back to the
-Home Page
 
 ----
 
 Report: 
-
-----
-
