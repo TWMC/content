@@ -10,7 +10,7 @@ Place: Hakone
 
 ----
 
-Location: 
+Location: 35.2120485932534,139.01509666333004
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Gunther Lientschnig
+Organiser: 
 
 ----
 
@@ -42,17 +42,16 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Previous walks
+Description: 
+
+Previous walks
 Back to the
 Home Page
 
 ----
 
 Report: 
-
-----
-
