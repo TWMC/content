@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Kanagawa-ken
+Prefecture: Kanagawa
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Ryoko & Ajay
+Organiser: 
 
 ----
 
@@ -42,12 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
 
 Back to the
 Home Page
@@ -55,6 +54,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
