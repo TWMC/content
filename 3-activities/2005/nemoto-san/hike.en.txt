@@ -10,7 +10,7 @@ Place: Nemoto-san
 
 ----
 
-Location: 
+Location: 36.5605388,138.87999719999993
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Paul Reay
+Organiser: 
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Previous walks
 Back to the
 Home Page
@@ -54,6 +55,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
