@@ -10,11 +10,11 @@ Place: Hakone
 
 ----
 
-Location: 
+Location: 35.2323825,139.10693549999996
 
 ----
 
-Prefecture: 
+Prefecture: Kanagawa
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: 
+Organiser: tadashi
 
 ----
 
