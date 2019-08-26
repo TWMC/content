@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Mihara-yama 
+Place: Mihara-yama
 
 ----
 
-Location: 
+Location: 34.7310356,139.39223689999994
 
 ----
 
-Prefecture: Izu-Oshima, Tokyo-to
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Akira Kagawa
+Organiser: akira
 
 ----
 
@@ -42,16 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
-Description: Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
