@@ -14,7 +14,7 @@ Location: 37.5752673,140.09465820000003
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -30,11 +30,11 @@ Enddate: 2004-02-07
 
 ----
 
-Days: 1
+Days: 2
 
 ----
 
-Organiser: 
+Organiser: terubumi-saito
 
 ----
 
