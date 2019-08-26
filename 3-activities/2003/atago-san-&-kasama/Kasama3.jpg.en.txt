@@ -1,8 +1,5 @@
-Caption: 
+Caption: Demonstration
 
 ----
 
 Gallery: 1
-
-----
-
