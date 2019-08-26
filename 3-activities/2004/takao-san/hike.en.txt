@@ -10,11 +10,11 @@ Place: Takao-san
 
 ----
 
-Location: 
+Location: 35.6254126,139.24373850000006
 
 ----
 
-Prefecture: 
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Nicolas and Sweta
+Organiser: nicolas
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Back to the
 Home Page
 
@@ -54,5 +55,22 @@ Home Page
 
 Report: 
 
-----
+Everybody came in time at 7/11 last sunday so we were able to leave in
 
+advance. Some more people joined us in the train and in Tokyo, so in
+total we were 25+/-0.2 people to reach Takao-san.
+ 
+There we split into two groups, one group of fast hikers (8 people) and a
+group for those who preferred to have more time to enjoy the path (17
+people).
+ 
+The fast hikers group reached the summit after 1 hour, around 11am,
+then we decided to go to the next summit (Shiro-san?). We had to hurry a bit if we wanted to be in time at the Fire festival, but this did not
+prevent us from enjoying the views
+ 
+We were back in time (1pm) at the temple where we expected the ceremony to be held... But in fact the ceremony was held at the foot of the mountain, so we had to go down further.
+ 
+We missed to the beginning of the ceremony, but there were still many
+people waiting to walk on the fire when we arrived.
+ 
+And after a long wait we could also walk on the fire.
