@@ -10,11 +10,11 @@ Place: Kumotori-yama
 
 ----
 
-Location: 
+Location: 35.8554954,138.94395800000007
 
 ----
 
-Prefecture: 
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Paul
+Organiser: paul
 
 ----
 
@@ -42,19 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
 
-
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
