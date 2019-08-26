@@ -10,11 +10,11 @@ Place: X-C skiing in Zao
 
 ----
 
-Location: 
+Location: 38.1705275,140.40173530000004
 
 ----
 
-Prefecture: Yamagata-ken
+Prefecture: Yamagata
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Akira Kagawa
+Organiser: akira
 
 ----
 
@@ -42,12 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
 
 Hike report by Akira
 Despite the expensive cost of this trip, there were 13 people joined this trip.
@@ -123,6 +122,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
