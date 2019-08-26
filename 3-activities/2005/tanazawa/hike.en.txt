@@ -10,7 +10,7 @@ Place: Tanazawa
 
 ----
 
-Location: 
+Location: 35.474534,139.16283980000003
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Richard Wasserbauer
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -55,6 +55,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
