@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Historical walk in Nagano           
+Place: Historical walk in Nagano
 
 ----
 
-Location: 
+Location: 36.6485258,138.19503710000004
 
 ----
 
-Prefecture: Nagano-ken
+Prefecture: Nagano
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Victor Heese
+Organiser: victor
 
 ----
 
@@ -42,18 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: Historical Walk in Nagano,
-
-Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
