@@ -10,7 +10,7 @@ Place: Kita-dake
 
 ----
 
-Location: 
+Location: 35.6747908,138.23885399999995
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Tadashi
+Organiser: 
 
 ----
 
@@ -42,18 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
-
-
-
-
-
-
-
 
 Back to the
 previous walks page
@@ -63,6 +56,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
