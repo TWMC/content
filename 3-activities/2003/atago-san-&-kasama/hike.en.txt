@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Atago-san & Kasama           
+Place: Atago-san & Kasama
 
 ----
 
-Location: 
+Location: 36.3452638,140.3043225
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: Ibaraki
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: 
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
@@ -51,6 +51,3 @@ Description: Atago-san & Kasama pottery fair,
 ----
 
 Report: 
-
-----
-
