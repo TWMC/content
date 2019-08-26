@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Ryokami-yama           
+Place: Ryokami-yama
 
 ----
 
-Location: 
+Location: 36.0236164,138.84122879999995
 
 ----
 
-Prefecture: Saitama-ken
+Prefecture: Saitama
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Masako Okamoto
+Organiser: masako
 
 ----
 
@@ -42,16 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: Back to the
-Home Page
+Description: 
 
 ----
 
 Report: 
-
-----
-
