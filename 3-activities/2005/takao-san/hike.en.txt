@@ -10,11 +10,11 @@ Place: Takao-san
 
 ----
 
-Location: 
+Location: 35.6254126,139.24373850000006
 
 ----
 
-Prefecture: 
+Prefecture: Tokyo
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Paul Reay
+Organiser: paul
 
 ----
 
@@ -42,19 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
-Previous walks
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
