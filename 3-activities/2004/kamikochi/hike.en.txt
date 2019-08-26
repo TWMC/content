@@ -34,7 +34,7 @@ Days: 3
 
 ----
 
-Organiser: 
+Organiser: michal
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
