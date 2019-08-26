@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Dancer-of-Izu trail 
+Place: Dancer-of-Izu trail
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Shizuoka-ken
+Prefecture: Shizuoka
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Tadashi Takemori
+Organiser: tadashi
 
 ----
 
@@ -42,11 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: This walk, having a cultured atmosphere, started with the literary discussion on the mailing list.
+Description: 
+
+This walk, having a cultured atmosphere, started with the literary discussion on the mailing list.
 It enriched twmc members with knowledge on Y. Kawabata and his novel, "The Izu Dancer" even before the trip.
 Let's see how the real trip was... here is the hike report by Archana.
 Hi. Thanks Tadashi for this  'literary' hike.  Thank you also for driving us
@@ -79,6 +81,3 @@ Home Page
 ----
 
 Report: 
-
-----
-
