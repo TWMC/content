@@ -6,7 +6,7 @@ Status: Completed
 
 ----
 
-Place: Night hike           
+Place: Night hike
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: Ibaraki-ken
+Prefecture: 
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: Nicolas Delerue
+Organiser: nicolas
 
 ----
 
@@ -42,11 +42,12 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
 Hike report by Nicolas
 The night hike is over and both cars came back safely to Tsukuba.
 The start of the hike was unusually late (for the club standard): 9pm
@@ -76,12 +77,6 @@ The last hikers reached Fukuhara station around 8:45 and we left around
 At 10:00am we were all back in Tsukuba tired but happy after that unusual
 hiking experience.
 
-Back to the
-Home Page
-
 ----
 
 Report: 
-
-----
-
