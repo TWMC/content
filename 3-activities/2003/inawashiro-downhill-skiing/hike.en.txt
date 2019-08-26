@@ -14,7 +14,7 @@ Location: 37.5577638,140.10483939999995
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: terubumi-saito
 
 ----
 
@@ -42,16 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
 Description: 
-
-Inawashiro Downhill Skiing,
-
-Back to the
-Home Page
 
 ----
 
