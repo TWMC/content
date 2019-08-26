@@ -6,15 +6,15 @@ Status: Completed
 
 ----
 
-Place: Downhill ski, Bandai
+Place: Mt. Bandai
 
 ----
 
-Location: 
+Location: 37.6009417,140.07225010000002
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -34,7 +34,7 @@ Days: 2
 
 ----
 
-Organiser: Terry Saito
+Organiser: terubumi-saito
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
@@ -51,6 +51,3 @@ Description:
 ----
 
 Report: 
-
-----
-
