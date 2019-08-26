@@ -1,8 +1,5 @@
-Caption: 
+Caption: Do you really want it?
 
 ----
 
 Gallery: 1
-
-----
-
