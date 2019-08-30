@@ -10,7 +10,7 @@ Place: Top Sante, Taiyo mura, Hokota shi, Ibaraki
 
 ----
 
-Location: 36.152198371732574,140.5815454618653
+Location: 36.108502,140.575557
 
 ----
 
