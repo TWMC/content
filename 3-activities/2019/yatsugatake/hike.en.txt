@@ -2,7 +2,7 @@ Title: Yatsugatake
 
 ----
 
-Status: Planned
+Status: Canceled
 
 ----
 
@@ -46,7 +46,7 @@ Difficulty: 4
 
 ----
 
-Description: 
+Description: This hike is cancelled until maybe next year......
 
 ----
 
