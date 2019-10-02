@@ -10,4 +10,4 @@ Email:
 
 ----
 
-Text: Maneger of club equipments.
+Text: Manager of club equipment.
