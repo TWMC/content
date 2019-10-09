@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukuba san
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2019-11-02
 
 ----
 
-Enddate: 
+Enddate: 2019-11-02
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: nobue
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
