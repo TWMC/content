@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Amamaki san
 
 ----
 
-Location: 
+Location: 37.6555767,-122.40983160000002
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2019-10-19
 
 ----
 
-Enddate: 
+Enddate: 2019-10-19
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: mihoko
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
