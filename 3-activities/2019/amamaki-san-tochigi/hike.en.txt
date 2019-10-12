@@ -1,4 +1,4 @@
-Title: Amamaki san Tochigi
+Title: Mt. Amamaki
 
 ----
 
@@ -10,7 +10,7 @@ Place: Amamaki san
 
 ----
 
-Location: 37.6555767,-122.40983160000002
+Location: 36.6714739,139.85472660000005
 
 ----
 
