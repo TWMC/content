@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: to be decided
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2020-03-28
 
 ----
 
-Enddate: 
+Enddate: 2020-03-28
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: alok
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
