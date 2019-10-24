@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Hot staff
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,7 +22,7 @@ Tags:
 
 ----
 
-Date: 
+Date: 2019-12-07
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
