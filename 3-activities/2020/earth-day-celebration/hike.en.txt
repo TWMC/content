@@ -1,0 +1,53 @@
+Title: Earth day celebration
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 
+
+----
+
+Prefecture: 
+
+----
+
+Tags: 
+
+----
+
+Date: 
+
+----
+
+Enddate: 
+
+----
+
+Days: 
+
+----
+
+Organiser: select
+
+----
+
+Coorganiser: select
+
+----
+
+Difficulty: 
+
+----
+
+Description: 
+
+----
+
+Report: 
