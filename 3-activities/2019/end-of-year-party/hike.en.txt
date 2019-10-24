@@ -26,11 +26,11 @@ Date: 2019-12-07
 
 ----
 
-Enddate: 
+Enddate: 2019-12-07
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
