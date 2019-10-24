@@ -30,11 +30,11 @@ Enddate: 2020-04-12
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
