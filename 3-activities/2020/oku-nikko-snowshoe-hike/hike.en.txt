@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2020-01-25
 
 ----
 
-Enddate: 
+Enddate: 2020-01-25
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: kotaro
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
