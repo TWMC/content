@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2020-04-19
 
 ----
 
-Enddate: 
+Enddate: 2020-04-19
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: rick-weisburd
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
