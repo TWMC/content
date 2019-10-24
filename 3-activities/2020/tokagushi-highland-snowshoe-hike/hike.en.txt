@@ -1,4 +1,4 @@
-Title: Tokagushi highland snowshoe hikei
+Title: Tokagushi highland snowshoe hike
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2020-03-06
 
 ----
 
-Enddate: 
+Enddate: 2020-03-08
 
 ----
 
-Days: 
+Days: 3
 
 ----
 
-Organiser: select
+Organiser: toshi
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
