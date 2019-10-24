@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Narita city
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Chiba
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2020-04-12
 
 ----
 
-Enddate: 
+Enddate: 2020-04-12
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
