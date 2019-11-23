@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2019-11-24
+Date: 2019-11-30
 
 ----
 
-Enddate: 2019-11-24
+Enddate: 2019-11-30
 
 ----
 
@@ -47,6 +47,8 @@ Difficulty: 2
 ----
 
 Description: 
+
+**The Kaba-san hike has been postponed till November 30th because of the rainy weather.**
 
 Kaba-san is located right here in Ibaraki-ken, not so far away from Tsukuba-san.
 
