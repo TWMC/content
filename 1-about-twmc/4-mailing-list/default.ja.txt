@@ -7,19 +7,19 @@ Text:
 To ensure that every TWMC member receives the same information concerning club activities we have a mailing list.
 We are using this service to announce details of walks and as a forum for discussions and questions related to mountaineering.
 
-You can subscribe to our mailing list by sending a blank email to (email: twmc-subscribe@yahoogroups.com).
+You can subscribe to our mailing list by sending a blank email to (email: twmc+subscribe@groups.io).
 You will receive an email of request acknowledge from the mailing list service demanding a simple reply to confirm the subscription.
 You will be then subscribed with the e-mail account you used to send that message.
 
 Note that you do have to reply to the e-mail sent from the mailing list owners - this is a security feature which stops people adding other addresses to the mailing list.
 
-To unsubscribe from the list, send a blank e-mail to: (email: twmc-unsubscribe@yahoogroups.com)
+To unsubscribe from the list, send a blank e-mail to: (email: twmc+unsubscribe@groups.io)
 
-For e-mail users with multiple accounts: Be sure that you send this e-mail from the the same account to which your TWMC e-mails are sent.  The email-account given in the "sender" field of the e-mail sent  to (email: twmc-unsubscribe@yahoogroups.com) shall be deleted from the subscription list.
+For e-mail users with multiple accounts: Be sure that you send this e-mail from the the same account to which your TWMC e-mails are sent.  The email-account given in the "sender" field of the e-mail sent  to (email: twmc+unsubscribe@groups.io) shall be deleted from the subscription list.
 
-To post messages to the group (members only): (email: twmc@yahoogroups.com)
+To post messages to the group (members only): (email: twmc@groups.io)
 
 E-mail sent to this address will be sent to all subscribers of our mailing list.
 If you have any problems or further questions, please e-mail the (email: ahenselmans@gmail.com text: club secretary).
 
-A list archive of all TWMC messages is available at: http://groups.yahoo.com/group/twmc/
+A list archive of all TWMC messages is available at:  https://groups.io/g/twmc
