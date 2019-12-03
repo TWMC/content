@@ -7,7 +7,7 @@ Text:
 TWMCのイベントの情報はメーリングリストで配信しています。
 
 We are using a mailing list to announce details of walks and as a forum for discussions and questions related to mountaineering.
-You can subscribe to our mailing list by sending a blank email to (email: twmc-subscribe@yahoogroups.com) and follow the instructions.
+You can subscribe to our mailing list by sending a blank email to (email: twmc+subscribe@groups.io) and follow the instructions.
 
 More details are in the "(link: https://www.twmc.club/about-twmc/mailing-list text: Mailing List)" page.
 
