@@ -10,8 +10,8 @@ Date: 2019-12-21
 
 ----
 
-Summary: 
+Summary: The night hike to Tsukuba san on December 22nd has been <B>postponed</B> because of the weather forecast (70% chance of rain).
 
 ----
 
-Text: The night hike to Tsukuba san on December 22nd has been <B>postponed</B> because of the weather forecast (70% chance of rain).
+Text: 
