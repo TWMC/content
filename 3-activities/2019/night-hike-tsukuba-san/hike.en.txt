@@ -2,7 +2,7 @@ Title: NIght hike Tsukuba san
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -10,7 +10,7 @@ Place: Tsukuba san
 
 ----
 
-Location: 
+Location: 36.2253757,140.10749250000003
 
 ----
 
@@ -47,6 +47,9 @@ Difficulty: 2
 ----
 
 Description: 
+
+**This hike has been postponed because of the weather forecast**
+New announcement will be made next year.
 
 Hiking Tsukuba in the dark is a different experience, that you shouldn't miss. 
 The view from the top of the mountain is gorgeous, enjoy 'Stardust over Tsukuba'.
