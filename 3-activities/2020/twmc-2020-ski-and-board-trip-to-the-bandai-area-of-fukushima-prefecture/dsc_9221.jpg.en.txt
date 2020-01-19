@@ -3,3 +3,7 @@ Caption: The group, with a lovely view of Mt Bandai
 ----
 
 Gallery: 1
+
+----
+
+Sort: 3

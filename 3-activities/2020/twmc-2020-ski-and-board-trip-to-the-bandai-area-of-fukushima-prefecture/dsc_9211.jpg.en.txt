@@ -3,3 +3,7 @@ Caption: Rick, the lead organiser
 ----
 
 Gallery: 1
+
+----
+
+Sort: 2

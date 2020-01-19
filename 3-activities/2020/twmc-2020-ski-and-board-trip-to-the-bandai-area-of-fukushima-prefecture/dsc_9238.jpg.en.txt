@@ -3,3 +3,7 @@ Caption: Another group photo from Grandeco with view of Mt. Bandai
 ----
 
 Gallery: 1
+
+----
+
+Sort: 5
