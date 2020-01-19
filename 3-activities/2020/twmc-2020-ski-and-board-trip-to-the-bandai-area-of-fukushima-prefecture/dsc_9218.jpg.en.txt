@@ -3,3 +3,7 @@ Caption: The group
 ----
 
 Gallery: 1
+
+----
+
+Sort: 1
