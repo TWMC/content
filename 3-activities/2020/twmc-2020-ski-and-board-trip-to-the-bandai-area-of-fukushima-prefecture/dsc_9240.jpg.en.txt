@@ -6,4 +6,4 @@ Gallery: 1
 
 ----
 
-Sort: 6
+Sort: 4
