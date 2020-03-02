@@ -12,7 +12,7 @@ Date: 2020-03-02
 
 Summary: 
 
-Wednesday March 4th is the first Wednesday of the month. 
+<b>Wednesday March 4th</b> is the first Wednesday of the month. 
 Let's get together and talk about something different than the viruses.
 See you from 8 pm onwards!
 
