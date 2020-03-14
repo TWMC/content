@@ -2,7 +2,7 @@ Title: Tokagushi highland snowshoe hike
 
 ----
 
-Status: Planned
+Status: Completed
 
 ----
 
@@ -10,7 +10,7 @@ Place: Tokagushi
 
 ----
 
-Location: 
+Location: 36.7424835,138.0850293
 
 ----
 
