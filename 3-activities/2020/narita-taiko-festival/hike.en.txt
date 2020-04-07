@@ -2,7 +2,7 @@ Title: Narita taiko festival
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -47,6 +47,8 @@ Difficulty: 1
 ----
 
 Description: 
+
+<B>The taiko festival has been postponed by Narita city. A new date has not been announced yet.</B>
 
 For many of us, Narita is only an airport. But Narita is much more than that. Narita city is a nice and charming place where every year a big taiko (Japanese drums) festival takes place.
 The drums are sounding all over the place and there are many special events and a lot of interesting food too.
