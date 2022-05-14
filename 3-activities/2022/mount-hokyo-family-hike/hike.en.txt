@@ -14,7 +14,7 @@ Location: 36.173169,140.118946
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-05-28
 
 ----
 
-Enddate: 
+Enddate: 2022-05-29
 
 ----
 
