@@ -22,7 +22,7 @@ Tags:
 
 ----
 
-Date: 2022-05-28
+Date: 2022-05-29
 
 ----
 
@@ -42,13 +42,13 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 5
 
 ----
 
 Description: 
 
-Let's go to Mt. Hokyo, our favorite for family hikes.
+**Bold text**Let's go to Mt. Hokyo, our favorite for family hikes.
 
 During this time of the year the weather is a bit unstable (rains), and so, depending on our luck, we may have to shift the date a bit.
 
