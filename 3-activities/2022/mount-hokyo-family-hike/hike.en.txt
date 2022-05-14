@@ -48,7 +48,7 @@ Difficulty: 5
 
 Description: 
 
-**Bold text**Let's go to Mt. Hokyo, our favorite for family hikes.
+Let's go to Mt. Hokyo, our favorite for family hikes.
 
 During this time of the year the weather is a bit unstable (rains), and so, depending on our luck, we may have to shift the date a bit.
 
