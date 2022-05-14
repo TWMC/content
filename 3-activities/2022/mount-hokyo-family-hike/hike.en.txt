@@ -10,7 +10,7 @@ Place: Mount Hokyo, Tsukuba
 
 ----
 
-Location: 36.1677901,140.1297534
+Location: 36.173169,140.118946
 
 ----
 
