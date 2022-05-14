@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Mount Hokyo, Tsukuba
 
 ----
 
-Location: 
+Location: 36.1677901,140.1297534
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
