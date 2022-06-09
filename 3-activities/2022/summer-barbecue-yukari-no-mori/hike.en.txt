@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Yukari no mori, Tsukuba
 
 ----
 
-Location: 
+Location: 36.0835255,140.0764454
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
