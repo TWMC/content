@@ -10,7 +10,7 @@ Place: Yukari no mori, Tsukuba
 
 ----
 
-Location: 36.0835255,140.0764454
+Location: 36.1081897,140.0656015
 
 ----
 
