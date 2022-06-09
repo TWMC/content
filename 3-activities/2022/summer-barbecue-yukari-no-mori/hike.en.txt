@@ -14,7 +14,7 @@ Location: 36.1081897,140.0656015
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-07-03
 
 ----
 
-Enddate: 
+Enddate: 2022-07-03
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
@@ -47,6 +47,34 @@ Difficulty: 1
 ----
 
 Description: 
+
+Rainy season is not fun for hiking so we have a summer BBQ party instead.
+
+Everybody is welcome! Even if you have never been on a hike, please come and join. It is a great chance to get to know people, hear about exciting hikes and club activities, and enjoy good times with BBQ together. 
+Participation is free and TWMC will provide food and non-alcoholic drinks. If you want you can bring a (home-made) dish or (alcoholic) drinks to share.
+
+It might be cloudy and even rainy. Bring an umbrella to be sure. Part of the BBQs are under a roof.
+
+We will be there from 10 o'clock and start preparing, if you want to help please come. 
+Like making fire? food? turning some sausages? We need some volunteers to help take care of the bbqs. 
+
+Date: 3 July 2022 (Sunday)
+Time: 10:00 - 15:00
+Place: Yukari no Mori
+
+Transportation: You can reach Yukari no mori by bicycle or car. There is parking available. 
+You can also take a bus from Tsukuba center.
+If you need a ride, please let us know. You can probably catch a ride with somebody.
+By bicycle it takes about 30 minutes from Tsukuba center.
+
+http://www.tsukubaykr.jp/access/access.html
+
+https://www.google.co.jp/maps/@36.0973038,140.0831523,14z
+
+Hope to see you all on July 3rd,
+cheers,
+
+Anja
 
 ----
 
