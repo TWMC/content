@@ -64,7 +64,7 @@ http://yukiiri.jp/pdf/map.pdf
 We will walk following the suggested route on the map. (Since there are alternative routes, we might change.)
 Note that we will walk both hiking trails and paved roads.
 
-*Difficulty level
+<b>*Difficulty level</b>
 2 out of 5
 
 <b>*What to bring</b>
