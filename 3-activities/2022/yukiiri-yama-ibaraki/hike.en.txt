@@ -52,11 +52,11 @@ Yukiiri yama is located on the boundary between Kasumigaura city and Ishioka cit
 We will start hiking at Fureaino-sato park and walk for about 3.5 hours.
 The altitude of the Kengamine peak is 360 m.
 
-<B>*Meeting time and place</b>
-- Sunday October 9th, 2022
+<B>*Meeting time and place
+- Sunday October 9th, 2022</b>
 - 9:30 a.m. at Tsukuba center car parking lot (next to the bus terminal). Please be on time as the parking lot is only free for 20 minutes. 
 
-*Route
+<b>*Route</b>
 You can download the hiking map (Japanese only). 
 
 http://yukiiri.jp/pdf/map.pdf
@@ -67,7 +67,7 @@ Note that we will walk both hiking trails and paved roads.
 *Difficulty level
 2 out of 5
 
-*What to bring
+<b>*What to bring</b>
 - hiking shoes
 - lunch
 - water 
