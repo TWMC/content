@@ -13,8 +13,8 @@ Date: 2022-10-09
 Summary: 
 
 The weather forecast for October 9th was not very good so we decided to postpone the hike until Saturday October 15th. (though it turns out to be a nice day...)
-For details about the hike see the description in the calender. 
-See you all next Saturday.
+<br>For details about the hike see the description in the calender. 
+<br>See you all next Saturday.
 
 ----
 
