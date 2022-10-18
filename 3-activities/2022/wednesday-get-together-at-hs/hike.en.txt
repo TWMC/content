@@ -2,15 +2,15 @@ Title: Wednesday get-together at HS
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
-Place: 
+Place: Hot Staff Ninomiya
 
 ----
 
-Location: 
+Location: 36.0630043,140.1212558
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
