@@ -6,7 +6,7 @@ Status: Scheduled
 
 ----
 
-Place: Hot Staff Ninomiya
+Place: Hot Staff Ninomiya Tsukuba
 
 ----
 
@@ -14,7 +14,7 @@ Location: 36.0630043,140.1212558
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,7 +22,7 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-11-02
 
 ----
 
