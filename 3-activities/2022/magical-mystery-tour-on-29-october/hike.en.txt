@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,41 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-10-29
 
 ----
 
-Enddate: 
+Enddate: 2022-10-29
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: rick-weisburd
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
+
+<b>Come join an approximately 50 km cycling loop tour on Saturday morning 29 October.</b> 
+<br>Meet at the Tsukuba Center bus station at 8:45 for a 9:00 am departure. 
+<br>Unless the weather forecast is for rain, I will decide the direction and route the day before to try for a tailwind on the way back; there are terrific routes in every direction. 
+<br>We will ride mainly on small rural roads, but there will be some stretches on roads with traffic. If rain seems very likely, the tour will be postponed with an email sent Friday evening. 
+<br>We’ll aim for a 20 km/h pace, but won’t leave anyone behind. Be sure that your bicycle is in good working order and your tires have appropriate air pressure. 
+<br>There will be a convenience store break along the way, but bring water. We should be back by early afternoon.
+
+<br>Only those who are fully vaccinated against Covid-19 or have a medical excuse from a physician are eligible to participate. Mask are optional while riding, but bring one at least for the meeting spot and convenience store stops. 
+<br>To sign up, email to rickweisburd@gmail.com with your name and keitai number.
 
 ----
 
