@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukuba michi
 
 ----
 
-Location: 
+Location: 36.1766693,140.0932428
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-11-03
 
 ----
 
-Enddate: 
+Enddate: 2022-11-03
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: nobue
 
 ----
 
