@@ -11,3 +11,4 @@ Text:
 (member: masako)
 (member: nicolas)
 (member: julian)
+(member: thierry)
