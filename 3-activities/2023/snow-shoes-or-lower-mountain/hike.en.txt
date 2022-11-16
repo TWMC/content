@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-01-28
 
 ----
 
-Enddate: 
+Enddate: 2023-01-28
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: toshi
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
