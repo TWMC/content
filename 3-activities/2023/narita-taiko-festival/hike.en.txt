@@ -14,7 +14,7 @@ Location: 35.7766588,140.3187418
 
 ----
 
-Prefecture: 
+Prefecture: Chiba
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-04-15
 
 ----
 
-Enddate: 
+Enddate: 2023-04-15
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
