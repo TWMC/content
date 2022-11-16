@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Shishitsuka
 
 ----
 
-Location: 
+Location: 36.0815725,140.1652392
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
