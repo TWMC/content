@@ -14,7 +14,7 @@ Location: 36.0815725,140.1652392
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-11-26
 
 ----
 
-Enddate: 
+Enddate: 2022-11-26
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: alok
 
 ----
 
@@ -47,6 +47,9 @@ Difficulty: 1
 ----
 
 Description: 
+
+Shishitsuka is a typical Japanese satoyama area in Tsuchiura, not far from Tsukuba.
+The Shishitsuka pond is surrounded by a hundred-hectare forest, there are many ancient remains, including the Shishitsuka tumulus and Kamitakatsu shell midden.
 
 ----
 
