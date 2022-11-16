@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-02-25
 
 ----
 
-Enddate: 
+Enddate: 2023-02-25
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: nobue
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
