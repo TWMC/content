@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Fukushima
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Fukushima
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-01-07
 
 ----
 
-Enddate: 
+Enddate: 2023-01-09
 
 ----
 
-Days: 
+Days: 2.5
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
