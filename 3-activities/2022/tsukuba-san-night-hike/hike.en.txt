@@ -14,7 +14,7 @@ Location: 36.2253757,140.1074925
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2022-12-10
 
 ----
 
-Enddate: 
+Enddate: 2022-12-10
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
@@ -42,11 +42,14 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
 Description: 
+
+Usually we organise an end-of-year hike to Tsukuba mountain in December. This year it will be different kind of hike. We will hike up to the Nyotai peak in the dark. It gets dark very early in December, so we probable leave around 16:00 from the Tsutsujigaoka parking area. We will have a small 'party' at the viewing deck and take the ropeway down. 
+ The ropeway runs until 21:00 in weekends so we'll have plenty of time to enjoy the view over the Kanto plain.
 
 ----
 
