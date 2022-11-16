@@ -34,7 +34,7 @@ Days: 2.5
 
 ----
 
-Organiser: 
+Organiser: rick-weisburd
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
