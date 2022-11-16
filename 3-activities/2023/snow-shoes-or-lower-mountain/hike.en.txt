@@ -46,7 +46,7 @@ Difficulty: 1
 
 ----
 
-Description: 
+Description: The date is not fixed, it will probably be January 28 or 29
 
 ----
 
