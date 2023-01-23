@@ -2,7 +2,7 @@ Title: Snow shoes or lower mountain
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -46,7 +46,10 @@ Difficulty: 1
 
 ----
 
-Description: The date is not fixed, it will probably be January 28 or 29
+Description: 
+
+This hike has been postponed because the organiser injured his tendon. 
+It will probably be at the end of March.
 
 ----
 
