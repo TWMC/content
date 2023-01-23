@@ -48,7 +48,7 @@ Difficulty: 1
 
 Description: 
 
-This hike has been postponed because the organiser injured his tendon. 
+This hike has been <b>postponed</b>because the organiser injured his tendon. 
 It will probably be at the end of March.
 
 ----
