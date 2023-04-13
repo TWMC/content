@@ -13,11 +13,11 @@ Date: 2023-04-14
 Summary: 
 
 The weather forecast for Narita April 15 and 16 is really not good. 
-The chance of precipitation is 70-80%. Besides, the temperature will be rather low.
+<br>The chance of precipitation is 70-80%. Besides, the temperature will be rather low.
 Sunday is not good as well, so I have decided to <b>cancel the trip</b>. 
-As it was train based you can still go by yourself....
+<br>As it was train based you can still go by yourself....
 
-Unfortunately we will have to wait for another year to experience the taiko festival in Narita.
+<br>Unfortunately we will have to wait for another year to experience the taiko festival in Narita.
 
 ----
 
