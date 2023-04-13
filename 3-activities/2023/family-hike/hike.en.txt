@@ -2,7 +2,7 @@ Title: Family hike
 
 ----
 
-Status: Canceled
+Status: Planned
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2023-04-08
+Date: 2023-04-29
 
 ----
 
-Enddate: 2023-04-08
+Enddate: 2023-04-29
 
 ----
 
@@ -48,12 +48,7 @@ Difficulty: 1
 
 Description: 
 
-April 6, 2023
-After carefully considering the impact of the weather (rains from tomorrow), I have decided to cancel the Saturday's Family Hike. It is too late to change it to Sunday, because many of the currently registered participants cannot make it, and it is too short a notice for others. Trails may still be wet on Sunday.
-
-Instead, I will reorganize it later this month. Please wait for the announcement!I am pleased to announce 
-
-Family Hike for April 8, 2023 (Saturday).
+Family Hike for April 29, 2023 (Sunday).
 It will be to Mt. Hokyo, our favorite for family hikes.
 
 To remind you: This hike is open for all ages and abilities. People with kids are especially welcome. You can write to me anytime for any consultation. And you can invite friends.
