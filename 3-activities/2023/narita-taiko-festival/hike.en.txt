@@ -48,7 +48,7 @@ Difficulty: 1
 
 Description: 
 
-<b>This trip is canceled because of bad weather forecast</B>
+<b>Unfortunately this trip was cancelled because of bad weather forecast</B>
 
 First announcement for the Narita Taiko Matsuri, the large Japanese drumming festival which is being held on Saturday, April 15th, 2023.
 
