@@ -2,11 +2,11 @@ Title: Buccyo san(仏頂山) and Takamine( 高峰)
 
 ----
 
-Status: Postponed
+Status: Planned
 
 ----
 
-Place: 
+Place: Kasama area
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2023-01-28
+Date: 2023-05-27
 
 ----
 
-Enddate: 2023-01-28
+Enddate: 2023-05-27
 
 ----
 
