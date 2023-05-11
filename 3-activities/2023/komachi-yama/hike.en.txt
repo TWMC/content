@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsuchiura
 
 ----
 
-Location: 
+Location: 36.0783182,140.2042457
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-06-11
 
 ----
 
-Enddate: 
+Enddate: 2023-06-11
 
 ----
 
@@ -34,19 +34,19 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: 
+Description: Komachi yama
 
 ----
 
