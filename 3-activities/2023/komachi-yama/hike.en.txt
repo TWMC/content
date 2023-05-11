@@ -10,7 +10,7 @@ Place: Tsuchiura
 
 ----
 
-Location: 36.1648533,
+Location: 36.1648533,140.16041829999995
 
 ----
 
