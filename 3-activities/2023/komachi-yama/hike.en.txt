@@ -30,11 +30,11 @@ Enddate: 2023-06-11
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: matthew-barrett
 
 ----
 
