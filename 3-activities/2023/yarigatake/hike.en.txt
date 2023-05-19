@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Yarigatake
 
 ----
 
@@ -34,19 +34,22 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
 Description: 
+
+Yarigatake (槍ヶ岳) is perhaps one of the most recognizable peaks in Japan. Located in the center of the Kita Alps, it’s a must for anyone serious about peak bagging in the Land of the Rising Sun.
+This 3-day hike will be in August, but the dates have not been fixed.
 
 ----
 
