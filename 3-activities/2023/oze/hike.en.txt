@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Oze National Park
 
 ----
 
-Location: 
+Location: 36.952557,139.3018759
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-07-29
 
 ----
 
-Enddate: 
+Enddate: 2023-07-30
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: select
+Organiser: alok
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
