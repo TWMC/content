@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukuba
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,31 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-06-25
 
 ----
 
-Enddate: 
+Enddate: 2023-06-25
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: 
+Description: June is rainy season in Japan, so in stead of hiking it is time for the summer party!
 
 ----
 
