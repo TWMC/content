@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: to be decided
 
 ----
 
@@ -22,31 +22,35 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-07-09
 
 ----
 
-Enddate: 
+Enddate: 2023-07-09
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: rick-weisburd
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+Many beaches in Japan are full of garbage and plastics. 
+We want to do our share in organising a beach clean-up every now and then.
+Details will follow...
 
 ----
 
