@@ -46,7 +46,10 @@ Difficulty: 1
 
 ----
 
-Description: June is rainy season in Japan, so in stead of hiking it is time for the summer party!
+Description: 
+
+June is rainy season in Japan, so in stead of hiking it is time for the summer party!
+Details will follow....
 
 ----
 
