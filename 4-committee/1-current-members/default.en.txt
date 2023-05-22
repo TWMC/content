@@ -20,5 +20,6 @@ Feel free to contact a committee member at any time.
 (member: deepa)
 (member: yumi)
 (member: ovidiu)
+(member: yunosuke-matsuda)
 (member: rick-weisburd)
 (member: stephanie-fung)
