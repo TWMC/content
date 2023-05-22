@@ -14,7 +14,7 @@ Feel free to contact a committee member at any time.
 (member: ginny)
 (member: toshi)
 (member: martin)
-(member: mat)
+(member: matt)
 (member: nobue)
 (member: kumiko)
 (member: deepa)
