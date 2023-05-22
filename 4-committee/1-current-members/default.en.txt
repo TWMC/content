@@ -8,7 +8,7 @@ Feel free to contact a committee member at any time.
 
 (member: kotaro)
 (member: anja)
-(member: yunosuke)
+(member: mihoko)
 (member: tadashi)
 (member: alok)
 (member: ginny)
