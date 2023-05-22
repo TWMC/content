@@ -21,5 +21,4 @@ Feel free to contact a committee member at any time.
 (member: yumi)
 (member: ovidiu)
 (member: rick-weisburd)
-(member: yunosuke-matsuda)
 (member: stephanie-fung)
