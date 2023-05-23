@@ -12,6 +12,7 @@ Feel free to contact a committee member at any time.
 (member: tadashi)
 (member: alok)
 (member: ginny)
+(member: hirohito-ito)
 (member: toshi)
 (member: martin)
 (member: matt)
