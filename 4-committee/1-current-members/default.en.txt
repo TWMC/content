@@ -22,4 +22,3 @@ Feel free to contact a committee member at any time.
 (member: ovidiu)
 (member: rick-weisburd)
 (member: stephanie-fung)
-(member: yunosuke)
