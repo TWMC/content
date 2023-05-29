@@ -34,7 +34,7 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: nobue
 
 ----
 
@@ -49,7 +49,9 @@ Difficulty: 1
 Description: 
 
 June is rainy season in Japan, so in stead of hiking it is time for the summer party!
-Details will follow....
+This year the party will be held in the old farm house in Chuo Park in Tsukuba center.
+It will be a potluck party, so you can show off you cooking skills or just get anything ready-made.
+More details will follow...
 
 ----
 
