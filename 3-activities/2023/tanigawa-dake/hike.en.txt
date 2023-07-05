@@ -104,8 +104,7 @@ Food; breakfast (Sun), Lunch (x2), snacks, etc.
 Camera
 Cell phone
 Hat
-If you stay plan without bedding on the 12th night;
-Sleeping bag/mat
+If you stay plan without bedding on the 12th night: sleeping bag/mat
 
 <b>Very approximate expenses</b>
 Lodge rate (2,500 ~ 7,500 yen)
@@ -118,7 +117,7 @@ Preferred plan for staying,
 Contact details (phone/e-mail)
 Can you provide a car? (If so how may seats?)
 
-If you have questions, please contact me via e-mail at this address.
+If you have questions, please contact me
 
 Best regards,
 Yunosuke and Hirohito
