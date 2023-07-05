@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: Yarigatake
+Place: Tanigawa-dake
 
 ----
 
-Location: 
+Location: 36.8345934,138.9301544
 
 ----
 
@@ -38,7 +38,7 @@ Organiser: yunosuke
 
 ----
 
-Coorganiser: 
+Coorganiser: hirohito
 
 ----
 
