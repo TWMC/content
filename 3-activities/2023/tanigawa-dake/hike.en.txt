@@ -72,7 +72,7 @@ https://www.yamakei-online.com/cl_plan/mail_detail.php?id=DoFLVdALR3emn3OO4asmhG
 https://www.youtube.com/watch?v=YyZ31WK1dYI&t=748s
 https://www.youtube.com/watch?v=iBjzEmg1vIE
 
-Places to stay
+<b>Places to stay</b>
 Rates are as follows:
 Room with bedding and 2 meals: 7,500 yen
 Room with no bedding and 2 meals: 6,000 yen
@@ -81,7 +81,7 @@ Only room with no bedding: 2,500 yen
 Please refer to the following for the situation place to stay.
 https://liliki.net/tanigawadake-yamagoya
 
-Cancellation Policy
+<b>Cancellation Policy</b>
 The cancellation policy of Tanigawa-dake-katano hut is as follows:
 Exceptions:
 It will not charge cancelation fees if the hike is canceled due to terrible weather or health problems.
@@ -94,7 +94,7 @@ Insurance coverage
 It is recommended to get the short type insurance. (https://hoken.montbell.jp/)
 If you cannot read Japanese or need help, please go to the Montbell shop near the Tsukuba station (https://goo.gl/maps/bjCnkBaNbizZ9hd97).
 
-Basic requirements:
+<b>Basic requirements:</b>
 Hiking boots (well-worn)
 Pack
 Clothing suitable for a wide temperature range (it will be cold in the morning)
