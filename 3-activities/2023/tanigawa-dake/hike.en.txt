@@ -2,7 +2,7 @@ Title: Tanigawa-dake
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2023-08-12
+Date: 2023-09-02
 
 ----
 
-Enddate: 2023-08-13
+Enddate: 2023-09-03
 
 ----
 
