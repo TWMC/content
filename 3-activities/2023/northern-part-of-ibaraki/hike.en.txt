@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: North Ibaraki
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,31 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-10-21
 
 ----
 
-Enddate: 
+Enddate: 2023-10-21
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: toshi
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
-Description: 
+Description: details will follow
 
 ----
 
