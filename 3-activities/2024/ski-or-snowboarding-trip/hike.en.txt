@@ -1,4 +1,4 @@
-Title: Ski trip
+Title: Ski or snowboarding trip
 
 ----
 
@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: not yet decided
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
