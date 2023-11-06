@@ -2,7 +2,7 @@ Title: Komachi yama
 
 ----
 
-Status: Postponed
+Status: Planned
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2023-06-11
+Date: 2023-11-19
 
 ----
 
-Enddate: 2023-06-11
+Enddate: 2023-11-19
 
 ----
 
@@ -47,8 +47,6 @@ Difficulty: 1
 ----
 
 Description: 
-
-<b>This hike is postponed because of bad weather.</b> It will take place after rainy season.   
 
 The hike is at Komachi-yama, a relatively close mountain.  The <b>starting point is by Komachi no Yakata</b> (http://tsuchiura-n.or.jp/service1.html).  It is a relatively short hike, about 1.5 to 2 hours total hiking time plus breaks, but the top of the mountain offers a great view of Mt Tsukuba and also has a nice shady picnic area where we can eat lunch.
 
