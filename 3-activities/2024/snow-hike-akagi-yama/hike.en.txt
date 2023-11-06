@@ -14,7 +14,7 @@ Location: 36.5389572,139.1664295
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-01-27
 
 ----
 
-Enddate: 
+Enddate: 2024-01-27
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: kotaro
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 5
 
 ----
 
