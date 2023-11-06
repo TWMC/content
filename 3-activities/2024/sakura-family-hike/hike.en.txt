@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: somewhere in Ibaraki
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-03-30
 
 ----
 
-Enddate: 
+Enddate: 2024-03-30
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: alok
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
