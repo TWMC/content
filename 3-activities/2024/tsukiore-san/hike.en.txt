@@ -14,7 +14,7 @@ Location: 36.7581579,140.40497
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-04-13
 
 ----
 
-Enddate: 
+Enddate: 2024-04-13
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: kumiko
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
