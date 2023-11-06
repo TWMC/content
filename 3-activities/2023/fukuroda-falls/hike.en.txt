@@ -34,19 +34,22 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+<b>Fukuroda Falls in Ibaraki Prefecture, one of the three most renowned waterfalls in Japan featuring both calmness and roughness</b>
+From afar, the falls look gentle white strands of falling water. Come closer and observe violent splashes of water hitting the ground.
 
 ----
 
