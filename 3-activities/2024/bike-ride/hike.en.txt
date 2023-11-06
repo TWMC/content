@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-04-20
 
 ----
 
-Enddate: 
+Enddate: 2024-04-20
 
 ----
 
