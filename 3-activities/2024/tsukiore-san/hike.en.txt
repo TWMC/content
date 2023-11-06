@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukiore san, Daigo city
 
 ----
 
-Location: 
+Location: 36.7581579,140.40497
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
