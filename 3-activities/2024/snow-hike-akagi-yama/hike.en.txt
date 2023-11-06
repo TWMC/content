@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Akagi yama, Gunma
 
 ----
 
-Location: 
+Location: 36.5389572,139.1664295
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
