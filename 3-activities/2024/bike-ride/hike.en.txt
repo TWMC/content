@@ -30,11 +30,11 @@ Enddate: 2024-04-20
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: rick-weisburd
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
