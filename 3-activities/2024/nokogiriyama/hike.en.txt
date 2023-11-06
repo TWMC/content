@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Nokogiriyama, Chiba
 
 ----
 
-Location: 
+Location: 35.1602977,139.8407663
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
