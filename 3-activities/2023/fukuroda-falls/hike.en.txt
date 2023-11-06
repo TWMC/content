@@ -22,15 +22,15 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-12-16
 
 ----
 
-Enddate: 
+Enddate: 2023-12-16
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
