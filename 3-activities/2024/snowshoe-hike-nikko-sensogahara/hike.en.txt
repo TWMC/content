@@ -14,7 +14,7 @@ Location: 36.7772479,139.4442998
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-01-06
 
 ----
 
-Enddate: 
+Enddate: 2024-01-06
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: toshi
 
 ----
 
@@ -42,11 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 3
 
 ----
 
-Description: 
+Description: The date is for this hike not yet final, it could be January 6 or 7.
 
 ----
 
