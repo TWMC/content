@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: to be decided
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-02-10
 
 ----
 
-Enddate: 
+Enddate: 2024-02-10
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: nobue
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
