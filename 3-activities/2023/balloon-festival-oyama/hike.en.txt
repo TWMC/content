@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Oyama city,
 
 ----
 
-Location: 
+Location: 36.3035252,139.7829128
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,31 +22,38 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-11-11
 
 ----
 
-Enddate: 
+Enddate: 2023-11-12
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+This festival is only a bit over an hour by car from Tsukuba. 
+If you have a car and are willing to take some people, please leave a message on the TWMC mailing list.
+
+For more information:
+
+https://www.oyamaballoon.com/
 
 ----
 
