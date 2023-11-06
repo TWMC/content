@@ -14,7 +14,7 @@ Location: 36.2253757,140.1074925
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-12-09
 
 ----
 
-Enddate: 
+Enddate: 2023-12-09
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
@@ -42,11 +42,15 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
 Description: 
+
+It has been a long tradition that the last hike of the year is go up Tsukuba san, our own Twin Peaks. 
+We often do not take the usual  routes, but an alternative, more quiet route. 
+It is not yet decided which route we will take.
 
 ----
 
