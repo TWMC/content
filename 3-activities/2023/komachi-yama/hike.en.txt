@@ -34,11 +34,11 @@ Days: 1
 
 ----
 
-Organiser: 
+Organiser: matt
 
 ----
 
-Coorganiser: 
+Coorganiser: hirohito
 
 ----
 
