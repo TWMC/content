@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukuba san
 
 ----
 
-Location: 
+Location: 36.2253757,140.1074925
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
