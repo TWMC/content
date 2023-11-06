@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-03-09
 
 ----
 
-Enddate: 
+Enddate: 2024-03-09
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: yunosuke
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
