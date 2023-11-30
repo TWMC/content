@@ -10,7 +10,7 @@ Date: 2023-11-30
 
 ----
 
-Summary: The end-of-year hike and party will be on Saturday December 9th, so there *will not* be a get-together on the first Wednesday of December.
+Summary: The end-of-year hike and party will be on Saturday December 9th, so there <I>will not</i>be a get-together on the first Wednesday of December.
 
 ----
 
