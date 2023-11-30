@@ -14,7 +14,7 @@ Location: 36.0630109,140.1212813
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2023-12-09
 
 ----
 
-Enddate: 
+Enddate: 2023-12-09
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: kumiko
 
 ----
 
