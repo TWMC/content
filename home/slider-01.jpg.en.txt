@@ -6,7 +6,7 @@ Dispalycaption: 1
 
 ----
 
-Caption: Celebrating 20 years
+Caption: 20 years
 
 ----
 
