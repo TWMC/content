@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: Hunter
+Place: Hunter Mountain
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
