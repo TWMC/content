@@ -1,0 +1,21 @@
+Slider: 0
+
+----
+
+Dispalycaption: 0
+
+----
+
+Caption: Celebrating 25 years
+
+----
+
+Subcaption: 
+
+----
+
+Linktopage: 
+
+----
+
+Linktext: 
