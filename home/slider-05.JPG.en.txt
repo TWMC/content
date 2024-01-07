@@ -6,7 +6,7 @@ Dispalycaption: 1
 
 ----
 
-Caption: 25 years
+Caption: 
 
 ----
 
