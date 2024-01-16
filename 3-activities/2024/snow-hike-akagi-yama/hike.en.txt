@@ -46,7 +46,7 @@ Difficulty: 5
 
 ----
 
-Description: 
+Description: There is not enough snow on the mountain so the date for the snow hike has been changed to February 4th.
 
 ----
 
