@@ -48,7 +48,7 @@ Difficulty: 1
 
 Description: 
 
-Unfortunately this trip was cancelled!!!
+**Unfortunately this trip was cancelled!!!**
 
 <b>First announcement: If you want to join, send a message as soon as possible</b>
 
@@ -168,4 +168,4 @@ I want to make the reservation to keep our seats first but the reservation websi
 
 ----
 
-Report: **Bold text**
+Report: 
