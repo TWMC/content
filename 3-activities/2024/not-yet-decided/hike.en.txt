@@ -1,4 +1,4 @@
-Title: Not yet decided
+Title: Takao san and fire festival
 
 ----
 
@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: Not yet decided
+Place: Takao san
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2024-03-09
+Date: 2024-03-10
 
 ----
 
-Enddate: 2024-03-09
+Enddate: 2024-03-10
 
 ----
 
