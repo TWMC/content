@@ -2,4 +2,4 @@ Caption:
 
 ----
 
-Gallery: 0
+Gallery: 1
