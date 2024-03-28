@@ -1,4 +1,4 @@
-Title: Tsukiore san
+Title: Amabiki yama
 
 ----
 
@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: Tsukiore san, Daigo city
+Place: Amabiki yama
 
 ----
 
-Location: 36.7581579,140.40497
+Location: 36.336258,140.121863
 
 ----
 
