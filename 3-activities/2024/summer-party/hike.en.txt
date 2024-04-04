@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Tsukuba
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-06-08
 
 ----
 
-Enddate: 
+Enddate: 2024-06-08
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
