@@ -30,15 +30,15 @@ Enddate: 2024-06-08
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: yunosuke
 
 ----
 
-Coorganiser: 
+Coorganiser: kumiko
 
 ----
 
@@ -46,7 +46,7 @@ Difficulty: 1
 
 ----
 
-Description: 
+Description: Because of the rainy weather in June hiking is not fun. Instead we will have a SUMMER PARTY!
 
 ----
 
