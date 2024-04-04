@@ -14,7 +14,7 @@ Location: 36.952557,139.3018759
 
 ----
 
-Prefecture: 
+Prefecture: Gunma
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-08-17
 
 ----
 
-Enddate: 
+Enddate: 2024-08-18
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: 
+Organiser: alok
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
