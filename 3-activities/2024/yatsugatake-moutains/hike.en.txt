@@ -14,7 +14,7 @@ Location: 35.970833,138.37
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-07-20
 
 ----
 
-Enddate: 
+Enddate: 2024-07-21
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: 
+Organiser: yunosuke
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 4
 
 ----
 
