@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Okukuji Nantai san
 
 ----
 
-Location: 
+Location: 36.724091,140.4195693
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
