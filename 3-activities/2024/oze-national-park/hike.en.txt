@@ -1,4 +1,4 @@
-Title: Oze
+Title: Oze National Park
 
 ----
 
@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Oze National Park
 
 ----
 
-Location: 
+Location: 36.952557,139.3018759
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
