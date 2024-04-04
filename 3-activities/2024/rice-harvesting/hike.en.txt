@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: Foot of Hokyo mountain, Tskuuba
+Place: Foot of Hokyo mountain, Oda, Tsukuba
 
 ----
 
-Location: 
+Location: 36.1515335,140.1163752
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-09-14
 
 ----
 
-Enddate: 
+Enddate: 2024-09-15
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: 
+Organiser: nobue
 
 ----
 
@@ -47,6 +47,10 @@ Difficulty: 1
 ----
 
 Description: 
+
+Nobu has been growing rice since many years on the foot of Houkyou san. 
+This year will probably be the last, so we want everybody to have the opportunity to harvest rice in the traditional way. 
+You can join for a couple of hours, half a day, a full day or more.
 
 ----
 
