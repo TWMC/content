@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-05-11
 
 ----
 
-Enddate: 
+Enddate: 2024-05-12
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: matt
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
