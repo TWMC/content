@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Nasu mountains
 
 ----
 
-Location: 
+Location: 37.0197825,140.1209869
 
 ----
 
@@ -22,31 +22,70 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-05-25
 
 ----
 
-Enddate: 
+Enddate: 2024-05-26
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: select
+Organiser: anja
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
 Description: 
+
+Nasu mountains are located in Tochigi prefecture. The hike is car-based, but **the organiser does not have a car. **So, the hike can only push through if people with cars are joining.
+
+Schedule:
+Day-1: Touge-no-Chaya car parking (1462m) - Mine-no-Chaya - Mt. Asahi(朝日岳:1896m) – Kumamizone JCT – Sandogoya Hot Spring (stay at Daikokuya)
+Day-2: Sandogoya Hot Spring – Numappara JCT – Ushigakubi JCT - Chausu-dake茶臼岳(1915 m) - Touge-no-Chaya car parking
+
+http://www.nasukogen.org/trekking/images/pdf/hmap.pdf?v=180316
+
+Difficulty ***Meeting place: Tsukuba Center bus terminal car parking
+Departure Time: 5:45am
+It will take 2.5-3 hours to get to the starting point by car. Since the car parking is limited and quite popular, we will leave Tsukuba early. 
+
+What to bring;
+Mountain boots
+Drinks 1.5-2L
+Rain gear
+Lunch for 2 days
+Snacks
+Head torch
+Onsen kit
+Money
+Expenses:
+Share of petrol and expressway fees: around 3,000-5,000 yen
+Accommodation: 9,500 yen (including dinner and breakfast)
+Club fee: 500 yen
+
+We will stay at Daikokuya(大黒屋), the mountain lodge with onsen.
+https://en.mountaintrad.co.jp/~sandogoya/
+
+If you would like to join the hike.
+Name
+Phone number
+The hike will push through if there are 4 participants or more.
+If not, it will be cancelled.
+
+-Disclaimer
+http://www.twmc.club/about-twmc/disclaimer
+We consider that you agree with this disclaimer to join this hike.
 
 ----
 
