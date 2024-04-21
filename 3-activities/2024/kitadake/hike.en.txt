@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Kitadake
 
 ----
 
-Location: 
+Location: 35.6747908,138.238854
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
