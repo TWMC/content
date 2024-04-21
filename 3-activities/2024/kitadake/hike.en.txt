@@ -14,7 +14,7 @@ Location: 35.6747908,138.238854
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-09-21
 
 ----
 
-Enddate: 
+Enddate: 2024-09-23
 
 ----
 
-Days: 
+Days: 3
 
 ----
 
-Organiser: 
+Organiser: hirohito
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 4
 
 ----
 
