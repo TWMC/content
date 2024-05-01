@@ -82,9 +82,10 @@ https://en.mountaintrad.co.jp/~sandogoya/
 If you would like to join the hike.
 Name
 Phone number
+How many meals do you want?
 Do you have a car? How many people can you take?
-The hike will push through if there are 4 participants or more.
-If not, it will be cancelled.
+
+The hike will push through if there are 4 participants or more. If not, it will be cancelled.
 
 -Disclaimer
 http://www.twmc.club/about-twmc/disclaimer
