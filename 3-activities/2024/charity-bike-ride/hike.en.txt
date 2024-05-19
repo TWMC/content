@@ -14,7 +14,7 @@ Location: 36.0821307,140.1114102
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-06-01
 
 ----
 
-Enddate: 
+Enddate: 2024-06-01
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: rick-weisburd
 
 ----
 
@@ -47,6 +47,22 @@ Difficulty: 1
 ----
 
 Description: 
+
+Although this is not an official TWMC trip, I hope that some members will join me in empowering girls and women in many countries through a charity bike ride on 1 June:
+
+Come support the provision of life-changing bicycles to empower girls and women in developing countries by joining an easy approximately 40 km loop ride from Tsukuba Station parking lot from 9 am on 1 June. 
+Please ask your friends and employer to donate to Pedal to Empower. You do not have to ride to donate. 
+
+The ride will proceed if there is intermittent light rain, but will be postponed in the event of continuous or moderate to heavy rain. 
+Bring water and your bicycle in good working order. Helmets are highly recommended. 
+There will be some small hills but most of the route is flat, with a few short unpaved sections. We’ll ride at whatever pace is comfortable for the slowest participant and won’t leave anyone behind. 
+We should be back by early afternoon. 
+
+The ride will be mostly on bike paths, farm roads and lightly trafficked public roads, but there is some risk associated with cycling and by participating, you agree to accept full responsibility for your safety and that the organizer and World Bicycle Relief bear no such responsibility. 
+
+Please share this message with anyone who might be interested.
+
+https://www.pedaltoempower.com/fundraisers/teamtsukuba
 
 ----
 
