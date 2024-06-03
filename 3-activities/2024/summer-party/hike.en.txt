@@ -48,7 +48,7 @@ Difficulty: 1
 
 Description: 
 
-We’re excited to invite you to our summer BBQ party on June 8th!
+We’re excited to invite you to our **summer BBQ party** on June 8th!
 
 This gathering is open to all! Even if you have never been on a hike, please come and join. It is a great chance to share exciting stories about climb and hike, and enjoy good times with BBQ together. 
 
