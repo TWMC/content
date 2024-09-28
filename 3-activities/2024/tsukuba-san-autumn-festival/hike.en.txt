@@ -10,7 +10,7 @@ Place:
 
 ----
 
-Location: 
+Location: 36.1776852,140.0934323
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
