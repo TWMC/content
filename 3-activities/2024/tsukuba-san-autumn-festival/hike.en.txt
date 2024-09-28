@@ -14,7 +14,7 @@ Location: 36.1776852,140.0934323
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-11-02
 
 ----
 
-Enddate: 
+Enddate: 2024-11-02
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: matt
 
 ----
 
@@ -47,6 +47,14 @@ Difficulty: 1
 ----
 
 Description: 
+
+The Tsukuba san autumn festival is held every year at the foot of Tsukuba san. 
+
+It is related to the Ozagawari-sai festival. In spring and autumn, a parent and child deity switch their altars between the main shrine at the summit and the worship hall halfway up the mountain in a Shinto ritual to pray for a good harvest. This event is held on November 1st, unfortunately on a Friday.
+
+We will go on November 2nd as there will be plenty of activities on that day too. 
+
+https://aki-fes29836.com/fes2024/tsukuba/
 
 ----
 
