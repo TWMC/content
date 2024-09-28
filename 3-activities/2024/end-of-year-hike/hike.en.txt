@@ -14,7 +14,7 @@ Location: 36.2253757,140.1074925
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,15 +22,15 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-12-07
 
 ----
 
-Enddate: 
+Enddate: 2024-12-07
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
@@ -42,11 +42,11 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
-Description: 
+Description: At the end of year TWMC always climbs Tsukuba mountain, our 'own' mountain.
 
 ----
 
