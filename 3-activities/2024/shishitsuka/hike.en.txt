@@ -14,7 +14,7 @@ Location: 36.0815725,140.1652392
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-10-12
 
 ----
 
-Enddate: 
+Enddate: 2024-10-12
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: alok
 
 ----
 
@@ -47,6 +47,9 @@ Difficulty: 1
 ----
 
 Description: 
+
+Shishitsuka is a perfect example of satoyama areas between wilderness and human habitats in Tsuchiura, not far from Tsukuba. 
+This is not a real 'hike', but a nature walk.
 
 ----
 
