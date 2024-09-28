@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,31 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-10-19
 
 ----
 
-Enddate: 
+Enddate: 2024-10-19
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: rick-weisburd
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
-Description: 
+Description: The dates of this bicycle trip in the Ibaraki country side are flexible, it could be on the October 19-20 weekend or October 26-27. More details will follow on the mailing list.
 
 ----
 
