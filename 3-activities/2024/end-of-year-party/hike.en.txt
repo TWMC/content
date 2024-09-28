@@ -14,7 +14,7 @@ Location: 36.0630109,140.1212813
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2024-12-07
 
 ----
 
-Enddate: 
+Enddate: 2024-12-07
 
 ----
 
@@ -46,7 +46,7 @@ Difficulty: 1
 
 ----
 
-Description: 
+Description: Every year TWMC organises a end-of-year party. Join us and bring your friends, even if you have never been on a hike ...
 
 ----
 
