@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Hiwada san
 
 ----
 
-Location: 
+Location: 35.8938679,139.3048548
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
