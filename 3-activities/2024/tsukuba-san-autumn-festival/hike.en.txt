@@ -2,7 +2,7 @@ Title: Tsukuba san autumn festival
 
 ----
 
-Status: Planned
+Status: Canceled
 
 ----
 
@@ -47,6 +47,8 @@ Difficulty: 1
 ----
 
 Description: 
+
+**Unfortunately this walk had to be canceled because of the bad weather.**
 
 The Mt Tsukuba Autumn festival will be taking place over the next couple of weekends, and we would like to organise a gentle hike though the festival site on Saturday the 2nd of November.
       Details of the festival can be found here: https://aki-fes29836.com/fes2024/
