@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2024-12-07
+Date: 2024-12-14
 
 ----
 
-Enddate: 2024-12-07
+Enddate: 2024-12-14
 
 ----
 
@@ -34,7 +34,7 @@ Days:
 
 ----
 
-Organiser: 
+Organiser: anja
 
 ----
 
