@@ -6,11 +6,11 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Rinrin road Tsukuba
 
 ----
 
-Location: 
+Location: 36.2065755,140.0803617
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
