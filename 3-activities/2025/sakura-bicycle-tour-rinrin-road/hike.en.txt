@@ -14,7 +14,7 @@ Location: 36.2065755,140.0803617
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-04-05
 
 ----
 
-Enddate: 
+Enddate: 2025-04-05
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: matt
 
 ----
 
