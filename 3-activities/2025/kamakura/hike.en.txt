@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Kamakura
 
 ----
 
-Location: 
+Location: 35.3192128,139.5466731
 
 ----
 
-Prefecture: 
+Prefecture: Kanagawa
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-05-24
 
 ----
 
-Enddate: 
+Enddate: 2025-05-24
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: alok
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
