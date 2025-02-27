@@ -14,7 +14,7 @@ Location: 36.1677901,140.1297534
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-03-29
 
 ----
 
-Enddate: 
+Enddate: 2025-03-29
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: alok
 
 ----
 
