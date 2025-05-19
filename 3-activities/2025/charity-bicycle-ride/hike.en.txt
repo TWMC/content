@@ -2,11 +2,11 @@ Title: Charity bicycle ride
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
-Place: 
+Place: from Tsukuba Station to Yokaren
 
 ----
 
@@ -22,31 +22,47 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-06-01
 
 ----
 
-Enddate: 
+Enddate: 2025-06-01
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: rick-weisburd
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+Come support the provision of life-changing bicycles to empower girls and women in developing countries by joining an easy, mostly flat, approximately 30 km loop ride from Tsukuba Station parking lot from 9:30 am on Sunday 1 June. 
+https://support.worldbicyclerelief.org/site/SPageServer?pagename=PedalToEmpower
+The website has many inspiring accounts of the impact these bicycles have on lives. 
+
+Our easy ride is suitable for anyone with a well-functioning bicycle (your own or rented—see below). Participants will be required to donate the equivalent of at least 1000 yen to the campaign, but the usual TWMC club fee will be waived. You are welcome to donate to the campaign even if you will not ride with us on 1 June. 
+
+The ride will proceed if there is intermittent light rain, but will be postponed in the event of continuous or moderate to heavy rain. Bring water and your bicycle in good working order. Helmets are highly recommended. There will be some small hills but most of the route is flat, with a few short unpaved sections. We’ll ride at whatever pace is comfortable for the slowest participant and won’t leave anyone behind. We should be back by early afternoon. The ride will be mostly on bike paths, farm roads and lightly trafficked public roads, but there is some risk associated with cycling and by participating, you agree to accept full responsibility for your own safety and that the organizer, TWMC, and World Bicycle Relief bear no such responsibility. 
+
+Rentals of good bikes are available: https://ibaraki-rentalcycle.jp/  
+They have junior (for 135-150 cm height), XS (for 150-165 cm height), and S (for 160-175 cm height. For those taller than 175 cm, before making your reservation contact the Cycling Support Desk [reception@drpedal.jp] by email to request an extra long seatpost for an S size rental. They also have bikes equipped with carriers that are convenient for using pannier bags; if you would like to use a carrier, please contact the Cycling Support Desk by email before making your reservation. The bikes can be reserved up to 30 days in advance and must be reserved at least 3 days in advance; they are often fully booked. I recommend reserving early and renting a hybrid (cross) bike or electric bike. 
+Reserve for 9:30 am to pick up your bike at the Tsukuba Sogo Information Center (number 2 on the reservation form) at the south end of the Tsukuba Station plaza next to Saza Coffee. If you are renting, then please arrive on 1 June at 9 am to organize your rental pickup, which is when the rental desk opens. There is no difference in price for returns the same day, so best to reserve with a drop off time of 16:00 in case you want to ride more on your own after the group ride finishes. 
+
+Sign up by emailing to rickweisburd@gmail.com with you name and cell phone number. If you will ride your own bicycle, then meet at 9:30 just outside Tsukuba Sogo Information Center at the south end of the Tsukuba Station plaza next to Saza Coffee. The 1000 yen (minimum) donation can be handed to Rick on the day or made in advance on the website: 
+https://support.worldbicyclerelief.org/site/TR/PedaltoEmpower/General?px=1003781&pg=personal&fr_id=1072
+If you donate on the website, then please forward to Rick your email acknowledgement of the donation from World Bicycle Relief. Unfortunately, the website does not accept yen. If you prefer to donate in yen, then hand your donation in yen (cash) to Rick on 1 June and he will convert to US$ and submit it to the campaign. Please ask your friends and employer to donate to Pedal to Empower. Please share this message with anyone who might be interested in riding with us, donating, or both. Thanks!
 
 ----
 
