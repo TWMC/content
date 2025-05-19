@@ -1,0 +1,53 @@
+Title: Charity bicycle ride
+
+----
+
+Status: Planned
+
+----
+
+Place: 
+
+----
+
+Location: 
+
+----
+
+Prefecture: 
+
+----
+
+Tags: 
+
+----
+
+Date: 
+
+----
+
+Enddate: 
+
+----
+
+Days: 
+
+----
+
+Organiser: select
+
+----
+
+Coorganiser: select
+
+----
+
+Difficulty: 
+
+----
+
+Description: 
+
+----
+
+Report: 
