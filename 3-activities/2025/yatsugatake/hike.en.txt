@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Nagano
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-08-23
 
 ----
 
-Enddate: 
+Enddate: 2025-08-24
 
 ----
 
-Days: 
+Days: 2
 
 ----
 
-Organiser: select
+Organiser: yunosuke
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 3
 
 ----
 
