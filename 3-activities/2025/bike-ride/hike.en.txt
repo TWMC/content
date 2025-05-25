@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-10-18
 
 ----
 
-Enddate: 
+Enddate: 2025-10-18
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: richard-wasserbauer
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
