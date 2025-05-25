@@ -5,6 +5,7 @@ Title: Moved Committee Members
 Text: 
 
 (member: hamish)
+(member: anja)
 (member: akira)
 (member: paul)
 (member: victor)
@@ -12,4 +13,3 @@ Text:
 (member: nicolas)
 (member: julian)
 (member: thierry)
-(member: anja)
