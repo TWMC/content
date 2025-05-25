@@ -7,7 +7,7 @@ Text:
 Feel free to contact a committee member at any time.
 
 (member: kotaro)
-(member:kyoko)
+(member:anja)
 (member: mihoko)
 (member: tadashi)
 (member: alok)
