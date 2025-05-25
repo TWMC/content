@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Oku-Nikko
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-07-05
 
 ----
 
-Enddate: 
+Enddate: 2025-07-05
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: kotaro
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
