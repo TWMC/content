@@ -10,7 +10,7 @@ Place:
 
 ----
 
-Location: 
+Location: 36.952557,139.3018759
 
 ----
 
@@ -42,7 +42,7 @@ Coorganiser:
 
 ----
 
-Difficulty: 1
+Difficulty: 2
 
 ----
 
