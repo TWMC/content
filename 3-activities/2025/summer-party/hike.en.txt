@@ -14,7 +14,7 @@ Location: 36.0852876,140.1095213
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,19 +22,19 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-06-21
 
 ----
 
-Enddate: 
+Enddate: 2025-06-21
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: 
+Organiser: matt
 
 ----
 
@@ -47,6 +47,31 @@ Difficulty: 1
 ----
 
 Description: 
+
+Summer will soon be here, which means it must be time for the TWMC Summer Party.  This year we will hold the party on the Summer Solstice itself, the 21st of June.  The party will be from around 11:42 (the exact time of the solstice) to 15:00.
+
+The party will be held at the Sakura Minkaen (さくら民家園), the old farm house building located in Tsukuba Central Park (つくば市中央公園), to the North of the station, and close to the Expo centre and the rocket.  This is the same location as the 2023 summer party.  The weather is looking like it will be hot, but as it is now rainy season things can change quickly.  This being a mostly indoor event, it will still take place in the event of light to moderate rain.
+
+Everyone is invited to the party, including family, friends, and people who have never been on a hike.  
+There will be no participation fee for the party - It will be a potluck event.  TWMC will provide some food and some soft drinks.  Please bring along a dish to share with others.  Please also note that alcohol is not permitted within the venue.  
+
+Date: Saturday the 21st of June 2025.
+Time: 11:42 - 15:00.
+
+Location:
+Sakura Minkaen (さくら民家園)
+https://maps.app.goo.gl/orefBSBMgjdfWvNs7
+
+The is no dedicated parking, but there is a paid car park (北2  / North 2) just to the west, by the central park entrance closest to the farm house.  
+There are other parking options available close to Tsukuba Station, and plenty of bike parking options as well.
+It is about a five minute walk from Tsukuba Station, with many options available for getting to the station by train or bus.
+
+What to bring:
+* Food that can be shared with the group.
+* Your own plate, cup, chopsticks, and/or cutlery.
+* Sunblock, mosquito repellant, raincoat, and/or an umbrella may be useful depending on the conditions on the day.
+
+Please let me know if you plan to attend, and how many people will be accompanying you, ideally by Thursday, so that we have an estimate of numbers for the day.
 
 ----
 
