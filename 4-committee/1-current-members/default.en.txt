@@ -23,4 +23,4 @@ Feel free to contact a committee member at any time.
 (member: stephanie-fung)
 (member: yunosuke)
 (member: hirohito)
-(member: kyoko-nomura)
+(member: kyoko)
