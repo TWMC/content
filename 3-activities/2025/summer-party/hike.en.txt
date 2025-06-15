@@ -2,15 +2,15 @@ Title: Summer Party
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
-Place: 
+Place: Sakura Minkaen
 
 ----
 
-Location: 
+Location: 36.0852876,140.1095213
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
