@@ -2,7 +2,7 @@ Title: Komachiyama
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
@@ -10,7 +10,7 @@ Place:
 
 ----
 
-Location: 
+Location: 36.1728897,140.1537474
 
 ----
 
@@ -47,6 +47,36 @@ Difficulty: 1
 ----
 
 Description: 
+
+The hike will be on Komachiyama (小町山), a relatively close mountain, with a height of 361 m.  The starting point is by Komachi no Yakata ( http://tsuchiura-n.or.jp/service1.html ). It is a relatively short hike, about 1.5 to 2 hours total hiking time plus breaks, but the top of the mountain offers a great view of Mt Tsukuba and also has a nice shady picnic area where we can eat lunch [1].  If we are lucky we might even spot some paragliders taking off from near the summit.
+
+ As it is quite a short hike, it is quite close, and parking can sometimes be difficult, we would like to go there by bike.  The bike ride from Tsukuba Center to Komachi no Yakata is about 12 km.  If there are people who wish to travel there by car, that is also fine, and if there is sufficient interest and sufficient drivers we will have a second group travelling to the hike by car.  
+
+Meeting time and place:
+- For those travelling by bike the meeting time will be 09:00, at the Tsukuba Center parking, next to the bus terminal.  
+- This is the normal meeting point for TWMC hikes: https://maps.app.goo.gl/G1rCh1rS36yvCE9s6 
+- If we have a group travelling by car, the meeting time will be 09:45 at the same Tsukuba Center parking.
+- You are also free to travel directly to Komachi no Yakata, and meet us there, if you wish.
+
+Everyone should aim to meet at Komachi no Yakata at 10:20 ready to start hiking at about 10:40.  There is some contingency to allow for delays; If you arrive early or have some time to spare there are some restaurants/cafes and a souvenir shop at Komachi no Yakata.  We will have lunch at the summit by about noon, before returning.
+
+Difficulty: 1 (similar to Hokyo-san)
+
+If you are interested in taking part, please send the organizer the following information:
+1) Name:
+2) Phone number:
+3) Number (and optionally names) of people accompanying you, if any.
+3) If you plan to join the cycle ride from Tsukuba Center, or would prefer to take a different transportation option:
+4) If you plan to drive and if you would be able to give a lift to others from Tsukuba Center to Komachi no Yakata?
+
+What to bring:
+- Hiking boots or good walking shoes.
+- Layered and/or waterproof clothes in case of changes in the weather.
+- Sunblock and insect repellent will probably be very useful.
+- Lunch and drinks.
+- Snacks.
+
+Cost: TWMC charges a 300 yen fee for adult participants. Car drivers do not have to pay this fee. Fuel costs should be shared between passengers. Insurance is left to the individual.
 
 ----
 
