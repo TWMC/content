@@ -4,12 +4,12 @@ Title: Moved Committee Members
 
 Text: 
 
-(member: hamish)
-(member: anja)
 (member: akira)
-(member: paul)
-(member: victor)
+(member: anja)
+(member: hamish)
+(member: julian)
 (member: masako)
 (member: nicolas)
-(member: julian)
+(member: paul)
 (member: thierry)
+(member: victor)
