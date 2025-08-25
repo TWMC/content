@@ -2,7 +2,7 @@ Title: Yatsugatake
 
 ----
 
-Status: Planned
+Status: Postponed
 
 ----
 
@@ -46,7 +46,7 @@ Difficulty: 3
 
 ----
 
-Description: 
+Description: It will be rescheduled. The final schedule will be announced shortly.
 
 ----
 
