@@ -46,7 +46,7 @@ Difficulty: 3
 
 ----
 
-Description: It will be rescheduled. The final schedule will be announced shortly.
+Description: This hike will be rescheduled, and the final schedule will be announced shortly.
 
 ----
 
