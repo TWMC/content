@@ -2,7 +2,7 @@ Title: Yatsugatake
 
 ----
 
-Status: Postponed
+Status: Scheduled
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2025-08-23
+Date: 2025-09-21
 
 ----
 
-Enddate: 2025-08-24
+Enddate: 2025-09-22
 
 ----
 
@@ -42,11 +42,37 @@ Coorganiser:
 
 ----
 
-Difficulty: 3
+Difficulty: 2
 
 ----
 
-Description: This hike will be rescheduled, and the final schedule will be announced shortly.
+Description: 
+
+Sep 20 Sat
+4:30 Depart Tsukuba
+8:30 Start to climb from Inagoyu spring
+over one summit
+15:00 Lodge of Io-dake (stay)
+
+Sep 21 Sun
+6:30 Depart lodge
+over six summits
+15:00 return to Inagoyu spring
+20:00~ return to Tsukuba
+
+If you are interested, please inform the following information to the organizer.
+- Name,
+- Gender,
+- Contact details (phone/e-mail),
+- Can you provide a car? (If so, how many seats?)
+
+Details
+- Level of difficulty: ** This is a general trail hike, and there is enough time. If someone lacks energy, we can change to a shortcut route.
+- Currently, the organizer booked a lodge for five people.
+- This hike will be canceled in case of heavy rain, which I determine and announce by Sep 19.
+- Insurance coverage: It is recommended that you get short-term insurance. (https://hoken.montbell.jp/) If you cannot read Japanese or need help, please visit the Montbell shop near the Tsukuba station (https://goo.gl/maps/bjCnkBaNbizZ9hd97).
+- Basic requirements: Hiking boots (well-worn), Pack, Clothing suitable for a wide temperature range (it will be cold (ex. below freezing) in the morning), Water/windproof outer layer, Water (1.5L), Food; Lunch for the first day, snacks, etc., Camera, phone, Hat
+- Very approximate expenses: Lodge rate (1,5000yen; including second day's lunch box), Share of travel costs (exclude drivers), Club fee
 
 ----
 
