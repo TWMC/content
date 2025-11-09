@@ -1,4 +1,4 @@
-Title: Ski trip
+Title: Ski trip(TBD)
 
 ----
 
@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Nekoma/Hunter Mountain
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-01-10
 
 ----
 
-Enddate: 
+Enddate: 2026-01-10
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: matt
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
