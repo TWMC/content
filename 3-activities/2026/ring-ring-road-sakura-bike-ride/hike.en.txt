@@ -1,4 +1,4 @@
-Title: Ring ring road Sakura bike ride
+Title: Ring ring road Sakura bike ride(TBD)
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-04-04
 
 ----
 
-Enddate: 
+Enddate: 2026-04-04
 
 ----
 
@@ -34,15 +34,15 @@ Days:
 
 ----
 
-Organiser: select
+Organiser: matt
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
