@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: TBA
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-12-06
 
 ----
 
-Enddate: 
+Enddate: 2025-12-06
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
