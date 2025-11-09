@@ -6,15 +6,15 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Mt. Tsukuba
 
 ----
 
-Location: 
+Location: 36.2253757,140.1074925
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2025-12-21
 
 ----
 
-Enddate: 
+Enddate: 2025-12-21
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: kotaro
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
