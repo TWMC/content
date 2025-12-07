@@ -1,4 +1,4 @@
-Title: Year-end Party(TBD)
+Title: Year-end Party
 
 ----
 
@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: TBA
+Place: Event space next to engi
 
 ----
 
@@ -22,11 +22,11 @@ Tags:
 
 ----
 
-Date: 2025-12-06
+Date: 2025-12-13
 
 ----
 
-Enddate: 2025-12-06
+Enddate: 2025-12-13
 
 ----
 
