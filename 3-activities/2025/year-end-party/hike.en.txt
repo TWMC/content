@@ -2,7 +2,7 @@ Title: Year-end Party
 
 ----
 
-Status: Planned
+Status: Completed
 
 ----
 
@@ -47,6 +47,23 @@ Difficulty: 1
 ----
 
 Description: 
+
+We would like to inform you that our annual end-of-year party will be held as usual.
+Please note that the venue has changed this year.
+
+This will be a potluck party, so please bring food or snacks to share. Some non-alcoholic drinks, such as tea and orange juice, will be provided. If you would like any specific drinks, please feel free to bring your own. You may also take snacks and drinks from “engi.”
+
+Everyone is welcome, including your family and friends. 
+
+We look forward to your participation.
+
+Details:
+Date & Time: December 13, 7:00pm-9:00pm
+Venue: Event space next to beer&cafe engi
+
+https://beercafe-engi.studio.site
+
+It’s very close to the Tsukuba station!
 
 ----
 
