@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Mt. Tsukuba
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,60 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-01-24
 
 ----
 
-Enddate: 
+Enddate: 2026-01-24
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: kotaro
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
+
+During this winter season, "stardust cruising ropeway" is available.
+https://www.mt-tsukuba.com/?p=1723
+
+After sunset, we will start hiking from the Tsutsujigaoka (つつじヶ丘) ropeway station and climb to the Nyotai san summit (female peak, 女体山).
+Then, we will enjoy the night view from the mountain and take a ropeway to go back to the car parking lot.
+Head/hand lamp and warm clothes are necessary.
+A restaurant is scheduled to be open until the last ropeway.
+
+Please note that depending on weather condition, the ropeway operation can be canceled.
+Indeed, we needed to walk down the mountain because of strong wind.
+When there is no ropeway customer, the ropeway operation can be terminated.
+
+Difficulty level : 2 out of 5.
+Meting time and place : 16:00 at Tsukuba center car parking
+
+*What to bring:
+Head/hand flashlight
+Hiking shoes
+Warm clothes
+Rain gear
+Snacks and dinner
+Drinks
+
+*Expected Cost:
+Car : 500 yen/car
+Ropeway : 620 yen?
+Club fee : 300 yen
+Insurance
 
 ----
 
