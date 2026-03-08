@@ -1,20 +1,20 @@
-Title: Family hike(TBD)
+Title: Family hike
 
 ----
 
-Status: Planned
+Status: Scheduled
 
 ----
 
-Place: 
+Place: Mt. Hokyo
 
 ----
 
-Location: 
+Location: 36.1677901,140.1297534
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -26,7 +26,7 @@ Date: 2026-04-25
 
 ----
 
-Enddate: 2026-04-25
+Enddate: 2026-04-18
 
 ----
 
