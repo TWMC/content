@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: https://www.city.kasama.lg.jp/page/page014600.html
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +22,93 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-05-30
 
 ----
 
-Enddate: 
+Enddate: 2026-05-30
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 4
 
 ----
 
 Description: 
+
+This hike is walking the Kasama Wagakuni-Atago traverse hiking trail between Fukuhara and Iwama station a bit north-east to Tsukuba. This is a 17-18 km trail, generally well maintained and technically not so difficult. However, there will be frequent ups and downs with occasional steep parts, so I only recommend it for fit people, who can walk all day.
+ 
+The hike starts at Fukuhara station and ends at Iwama station. The first and last section of trail (appr. 2-2 kms) will be on paved surface, while the middle part will be a ridge hike under the trees, passing four smaller peaks along the way and enjoying the view. At the final section of the hike, we can visit Atago shrine and also relax over the view of Iwama city from the cafe nearby (closes at 5pm).
+A Japanese map of the route can be found at the information section below.
+ 
+This is primarily planned as a public transportation based hike, but if people with cars join, it is possible to carpool following the club's normal rules.
+ 
+Please find below the information regarding transportation and meeting points, and if you would like to join, please let the organizer know:
+ 
+-Your name
+-Phone number
+-Transportation option, boarding point for train
+-If you are interested to join a car at Tsukuba center if there is a possibility
+-If you plan to come by car, let me know if you are ready to carry other hikers (provide number) following the club normal rules (meeting place: Tsukuba center)
+ 
+Information:
+Date of Hike: May 30 (goes ahead in case of light rain, final weather confirmation on May 29)
+ 
+Location:  Kasama Wagakuni-Atago traverse hike, between Fukuhara and Iwama station
+Course maps:
+https://www.city.kasama.lg.jp/page/page014600.html (click on pdf links)
+ 
+Distance: 17-18 km. 
+ 
+Difficulty: 3 or 4 out of 5, only for fit hikers. This is a whole day hike from 9am to 5-6pm. While maximum elevation is not so high, there will be frequent up and downs along the path.
+ 
+Equipment: good hiking shoes, food and water (prepare for no convini or drink automata at Fukuhara station), rain gear depending on weather, headlamp or torch.
+ 
+Transportation:
+This hike will start at Fukuhara sation and will end at Iwama station. If you plan to come by car, I recommend leaving the car at Iwama, otherwise this is planned as a public transportation aided hike.
+ 
+Bus+train:
+Option 1: 
+From Tsukuba, take the bus to Hitachino-Ushiku at 7.20, will arrive at 7.47, final station, Hitachino-Ushiku. (This bus goes on the Nishi-odori, so people can get on at Ninomiya, Doho koen, Inarimae, etc)
+Board the train leaving at 7.57 towards Mito.
+ 
+Option 2:
+From Tsukuba, take the bus to Arakawaoki at 7.00, will arrive at 7.30, final station. This bus goes through Higashi-odori, so people can get on at Sengen, Namiki, etc)
+Board the train leaving at 8.00 towards Mito.
+ 
+Other options:
+By car or bicycle to any train stations on the train routes.
+ 
+!Attention!
+We have to change trains once in morning on the way to Fukuhara. If you miss the train specified above, you won't make the connection (and the next train comes only after 1 hour).
+ 
+## Return journey:
+We aim to reach the train at 18.20 from Iwama (There are couple of trains before and after as well). The train reaches Hitachino-Ushiku at 18.57, and there is a bus back to Tsukuba center at 19.20.
+ 
+Meeting point:
+Meeting point is the second car of the train (counting from the front) going towards Mito at 7.57 (Hitachino Ushiku), 8.00 (Arakawaoki), 8.43 (Iwama).
+Most likely I will board the train at Arakawaoki, while Matt, an other TWMC member, will meet people at Tsukuba center and coordinate travel from there.
+ 
+Normal TWMC rules apply for participation (300 yen/person).
+ 
+Disclaimer: There are risks associated with all outdoor activities.  All risks are accepted by individuals participating in the activity; TWMC and the organisers accept no responsibility for these risks: https://www.twmc.club/about-twmc/disclaimer
+ 
+I look forward to hearing from you!
+ 
+Best wishes,
+Lea
 
 ----
 
