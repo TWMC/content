@@ -8,13 +8,15 @@ Status: Planned
 
 Place: 
 
+Sakura-Minkaen （さくら民家園）within Chuo-koen park（中央公園内）
+
 ----
 
 Location: 
 
 ----
 
-Prefecture: 
+Prefecture: Ibaraki
 
 ----
 
@@ -22,31 +24,72 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-06-27
 
 ----
 
-Enddate: 
+Enddate: 2026-06-27
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: 
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 1
 
 ----
 
 Description: 
+
+We will be holding our annual Summer Party again this year!
+
+Participation is free, and the event will be a potluck party.
+No application is required.
+Family members, friends, and even non-hikers are all welcome to join.
+
+Date: Sunday, June 28, 2026
+Time: 11:30 – 14:30
+(Please help clean up and vacate the venue by 15:00.)
+Location:Sakura-Minkaen （さくら民家園）within Chuo-koen park（中央公園内）
+
+2-7-5 Azuma, Tsukuba-shiCity
+(Approximately a 5-minute walk from Tsukuba station)
+https://maps.app.goo.gl/CxDNLaQuNA7CM4xC6
+The event will be held indoors and will take place regardless of the weather.
+
+Sakura Minkaen is a traditional Japanese house from the Edo period that was relocated to this site.
+This is the same venue used for the 2025 Summer Party.
+There is no dedicated parking or bicycle parking available. Please use nearby paid parking facilities.
+
+What to bring:
+* A dish to share with others (please take appropriate precautions to prevent food poisoning)
+* Soft drinks(Alcohol is prohibited within Sakura Minkaen.)
+* Your own plate, cup, chopsticks, and cutlery
+* Insect repellent (recommended)
+* Please take trash home with you
+
+Sakura-Minkaen Facility Rules:
+https://www.city.tsukuba.lg.jp/soshikikarasagasu/kensetsubukoen_shisetsuka/gyomuannai/6/1/23743.html
+
+* Open flames and cooking are prohibited.
+* Exercise activities (including stretching and yoga) are prohibited.
+* Please do not touch the exhibits.
+* Eating and drinking are permitted, but alcohol is prohibited.
+* Breaking tree branches or picking plants is prohibited.
+* Pets, sports equipment, and activities such as running around or playing catch are prohibited.
+* Users may be charged for repairs if facilities are damaged.
+* Playing musical instruments is permitted.
+
+Yuya
 
 ----
 
