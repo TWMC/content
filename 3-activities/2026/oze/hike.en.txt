@@ -6,7 +6,7 @@ Status: Planned
 
 ----
 
-Place: 
+Place: Oze
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,27 +22,27 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-09-26
 
 ----
 
-Enddate: 
+Enddate: 2026-09-26
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: alok
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
