@@ -2,11 +2,11 @@ Title: Mt. Haruna day hike
 
 ----
 
-Status: Planned
+Status: Completed
 
 ----
 
-Place: 
+Place: Mt. Haruna
 
 ----
 
@@ -14,7 +14,7 @@ Location:
 
 ----
 
-Prefecture: 
+Prefecture: Tochigi
 
 ----
 
@@ -22,32 +22,76 @@ Tags:
 
 ----
 
-Date: 
+Date: 2026-10-17
 
 ----
 
-Enddate: 
+Enddate: 2026-10-17
 
 ----
 
-Days: 
+Days: 1
 
 ----
 
-Organiser: select
+Organiser: yunosuke
 
 ----
 
-Coorganiser: select
+Coorganiser: 
 
 ----
 
-Difficulty: 
+Difficulty: 2
 
 ----
 
 Description: 
 
+We will climb Mt. Kamon-ga-take (1,449 m),
+the highest peak of Mt. Haruna and one of the 200 Famous Japanese Mountains.
+
+We will be able to enjoy a nice view of Lake Haruna.
+
+Plan in brief
+4:30 Meet at the Tsukuba Station parking lot, depart by car
+7:45 Start hiking from Lake Haruna
+9:30 Summit
+10:30 Suzuri-iwa rock (viewpoint)
+11:30 Back at the lake, lunch
+12:30 Mt. Haruna-Fuji (1,391 m, optional; you can wait by the lake)
+14:30-15:30 Ikaho (hot spring or a walk)
+~ 18:30 Back in Tsukuba
+
+If you are interested, please reply by October 14th with your
+Name
+Gender
+Contact (phone/e-mail)
+Can you provide a car? (If so, how many seats?)
+
+Details
+Course: about 3.2 km, 400 m up, about 3.5 hours with breaks (not including Mt. Haruna-Fuji)
+Difficulty: * (short, but with a long staircase)
+My car can take four people. If more join, we will need another car.
+Heavy rain: moved to Sunday 18th (decided by the evening of the 16th).
+Hot spring: we will decide on the day (probably yes). If you would rather skip it, you can walk around the stone steps street.
+Bring: hiking boots, a warm layer (the lake is about 10 degrees colder than Tsukuba),
+rain gear, water, snacks, lunch (or buy it at the lake), a towel if you take a bath
+Costs: share of travel costs (except drivers), hot spring (about 1,000 yen), club fee (300 yen)
+Short-term insurance is recommended (https://hoken.montbell.jp/).
+
 ----
 
 Report: 
+
+The weather was very good, and three of us joined.
+We met at Tsukuba Station at 4:30 and drove to Haruna.
+
+We climbed two peaks of Mt. Haruna: Kamongatake and Haruna-Fuji.
+The view from Kamongatake was amazing.
+
+After coming down, we stopped by Ikaho, an onsen town nestled in the mountains.
+The town had a wonderful atmosphere.
+
+Two peaks and an onsen town, all in one day.
+It was a very fulfilling day.
